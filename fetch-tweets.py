@@ -2,11 +2,10 @@
     Authors: Benjamin Hallen, Alex Murray, Siddharth Rao
     Date: 10/11/2015
 
-    Fetches public tweets from certain users. Retrieves
-    of those users stored in a csv file.
+    Fetches public tweets from certain users. Retrieves users
+    stored in a csv file.
 
     Initially the tweets are stored in .txt files (Just testing some stuff.)
-
     Note: Only fetches 200 tweets per user. Decreased the limit for testing
           purposes. Limit can be increased with some tweaking to the code.
 """
