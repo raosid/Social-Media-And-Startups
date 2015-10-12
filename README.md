@@ -9,3 +9,7 @@ Analyzing the effect of social media use by startups.
 
 ###Folders:
 **initial-tweets**: Contains text files for each startup with their respective tweets.
+
+
+###Links:
+**Google Spreadsheet for companies**: https://docs.google.com/spreadsheets/d/1Pof7OZ3P0LJyPyosTuMKt07ok9jl47OYhYz8QbJbWYE/edit?usp=sharing
