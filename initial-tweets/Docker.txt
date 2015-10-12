@@ -1,0 +1,206 @@
+1. Getting Started, @Docker, @Synology, @GitLab, @Redisfeed, @Jenkinsci, @tryghost http://t.co/fhMOEqByu3 by @v1k0d3n http://t.co/xWahuYExux
+2. RT @DamienDuportal: @HypriotTweets @Quintus23M And record just broken ! New setting allowed me to go to 2498 containers (and metrics collec…
+3. RT @Icebobcsi: I just published “A magic touch: Running #HypriotOS &amp; #Docker with the new 7" touch display of the #RaspberryPi…” https://t.…
+4. Guide on how to get started with @Docker and @sugarcrm via @sugarcrmdev blog - http://t.co/ULwC9EElv6 #docker #crm http://t.co/OKC5oT2r8N
+5. Introducing Flatcar: Tool for Creating @Docker-ready @rails Projects via @CenturyLinkLabs: https://t.co/ODMBZCINGq http://t.co/fVc9hUoVgo
+6. Configuring for the full potential of @Docker on @digitalocean #VPS by @finitesquid: https://t.co/K0xAvYvW7C #Docker http://t.co/ZPHBknVMAX
+7. Overview on setting up @puppetlabs in @Docker by @thijsschnitger via @containersoluti blog: http://t.co/HxeKEH5n06
+8. Dockerizing your @scala_lang apps with sbt-#docker by @evanfchan: http://t.co/yg8QdK3XkR @Docker #dockerize
+9. Missed this week's #DockerWeekly? Catch up on the latest @Docker news &amp; hacks: https://t.co/SRRqBtMGXt Sign up now: https://t.co/xcViEckZjh
+10. Tutorial on using @EclipseFdn #JBoss tools to manage @Docker images by @mastertheboss: http://t.co/xwI12MmW3D http://t.co/VyPNfaV03m
+11. .@frankchn &amp; @bsaeta discuss batch processing w/ @Docker &amp; @AWScloud EC2 at @coursera: http://t.co/bScYLkMQFP http://t.co/38bpChKQIM
+12. RT @frazelledazzell: Made a tool last night to generate custom apparmor policies for your @docker containers, try it out ;) https://t.co/Ly…
+13. ICYMI: next @docker SF meetup is on 10/14 at @newrelic http://t.co/r0YETsFBZD w/ talks by @ILMVFX &amp; @frazelledazzell on #AppArmor policies
+14. Join the next @docker LDN meetup next thursday http://t.co/PAz2kbXI7U w/ @dave_tucker on #Docker Toolbox &amp; @moviolone on @awscloud ECS
+15. .@weaveworks: the fastest path to @Docker on @AWScloud EC2 #Container Service: http://t.co/ogh5LI2G2c #AWS #Docker http://t.co/BtQBSKRlRE
+16. More speakers confirmed for @DockerCon EU 15 http://t.co/Ar9FDdvijw @idomyowntricks @ahmetalpbalkan @ianmiell @meatmanek @sebgoa #DockerCon
+17. RT @nigelpoulton: Quick blog post: "#SaveTheTree Docker and enterprises" - http://t.co/7d8goBLGqL @solomonstre
+18. Run @NodeJS anywhere using @Docker and #Nexe http://t.co/8peDS7usFw by @titpetric http://t.co/I7CjEKBrJL
+19. Revealing Hidden Insights with @Docker &amp; timeslice() by @eoin_shanley via @logentries blog: https://t.co/GYFt1aIGmh http://t.co/uDHKjqu9A0
+20. RT @jpetazzo: Here are the slides from my #reinvent talk about @docker, ECS, ECS-CLI, Compose, Swarm, and all things containers: http://t.c…
+21. RT @brawong: Using @docker Compose and Jenkins to Turbocharge your CI pipeline @AWSreInvent http://t.co/ebpQZzFbr9
+22. RT @shenmaxiu: .@NasaJPL talking about sharing @awscloud EC2 and @docker images for scientific research. Good! #reInvent http://t.co/EojZDV…
+23. RT @fom_info: I'm at the end of ECS talk line. @docker talks at #aws #reinvent are more popular than the 1st iPhones #dockerselfie http://t…
+24. #Dockerfile Tutorial for Beginners by @desitude via @TheRemoteLab blog: http://t.co/LvkkT8WdX2 @Docker #containers http://t.co/0qbCm2ukn9
+25. RT @mikegcoleman: Ready to talk a bit about @docker at #puppetconf later this afternoon http://t.co/2acc6YLmt4
+26. Starting now at #reInvent: Turbocharge #CD Pipeline w/ #Containers with @moviolone &amp; Dan from @AWScloud https://t.co/xlxOQEXlcM @Docker #AWS
+27. @flexdinesh Check out https://t.co/gmle0Ukn59 &amp; https://t.co/SC04U7DtiF
+28. Starting in 5 min at @AWSreInvent: implementing #AWS and @Docker in production at @coursera w/ @bsaeta &amp; @frankchn - https://t.co/ez3ufrjrN5
+29. RT @rajat_g: "Containers have been around, but @docker made them accessible" #awsreinvent http://t.co/lwKXpbgZ2L
+30. RT @BoiseMatt: This is a sign that you are near a @docker session. #AWS #reinvent #containerizeeverything http://t.co/FAoEAzhtpV
+31. The ultimate @Docker playground for @Raspberry_Pi from the @HypriotTweets crew: http://t.co/fcNh0zJ1NP #RaspberryPi http://t.co/ePAMZRmVff
+32. Watch the recorded @Docker Overview webinar (including live demo) and read the #Docker Q&amp;A with @harish_jkumar: http://t.co/ULWEw9Vd0K
+33. Join us for the next @docker SF meetup hosted by @newrelic http://t.co/r0YETsFBZD featuring a talk by @ILMVFX &amp; @frazelledazzell
+34. RT @edgartronic: Learning how to deploy #docker containers while watching the keynote. Good stuff @AWSreInvent! #reinvent http://t.co/5opJd…
+35. RT @RemindEng: BAM- onstage in &lt; 10 minutes @vesirin launched a brand new distributed system with Empire, Docker &amp; AWS. #reinvent https://t…
+36. RT @rajat_g: Another packed @docker talk. @docker in production @RemindEng @AWSreInvent http://t.co/85uZrO1OxN
+37. RT @CloudBees: Get ripped! #Jenkins &amp; #Docker bring added strength to #ContinuousDelivery processes http://t.co/Che9QjME14 http://t.co/kCVq…
+38. At @AWSreInvent? Stop by to chat! We're @docker Booth 445 #reinvent
+39. Running @Docker #containers on @AWScloud with ECS by @danilop at #Docker Belgium meetup: https://t.co/xnv7qkAAAr #AWS http://t.co/YeM2E0UBce
+40. Don't miss @PuppetConf's Simplifying IT Stack panel at 4:55 pm w/ @Docker's @mikegcoleman @ANGELCALVOS @startswithv: http://t.co/V7FgmhJCJT
+41. RT @simplycloudio: HUGE thanks to @jpetazzo for his great talk &amp; demo of the new Amazon ECS-CLI. Has been awesome working with the @docker …
+42. RT @HypriotTweets: HypriotOS reloaded! One to rule them all: @docker, compose, swarm &amp; machine: http://t.co/OKlfawkKJa #exciting http://t.c…
+43. Check out Tim Carry's wrapper script for a custom listing of #Docker images and #containers: http://t.co/fI91Ril6Z0 http://t.co/9SksWJyGVR
+44. Ready to #learndocker? Register now for Official @Docker Training courses coming up in Amsterdam, Nantes &amp; Hamburg: https://t.co/rgLfyUzdix
+45. Containing your logical backups: #mydumper in @Docker by @mysqlboy via @percona blog: https://t.co/umMuzKQjdN
+46. "A container on #docker can be as light as one MB" @jpetazzo creating Ambassador containers
+47. @kristianspriggs @jpetazzo it was recorded and should be posted online in the next few weeks - we'll definitely tweet about it :)
+48. @_nicovillanueva @jpetazzo yup! we'll promote once it's posted - stay tuned for an update in a few weeks.
+49. RT @austinmaddox881: @jpetazzo about to present to a bazillion @Docker fanatics at #reInvent http://t.co/TT9nIj3KRl
+50. Recap table with emojis by @jpetazzo comparing app methodologies #reinvent2015 http://t.co/81U8InkPmW
+51. "A big festival of micro services" can be deployed with docker compose up @jpetazzo #reinvent2015 http://t.co/7ZEQNWkql4
+52. @jpetazzo explains using all the #docker tools in production #reinvent2015 http://t.co/TnXcIedWhd
+53. RT @BettyJunod: Weaving through a crazy packed line for @jpetazzo session at #reinvent2015 http://t.co/iWRTLKAWsc
+54. @jpetazzo session is about to start!  From local dev to prod with #docker #reInvent http://t.co/ynCG65zNuh
+55. How to Monitor @Docker-Based Applications Using @newrelic by @jalaine via @tutsplus blog: http://t.co/eiKKA6knOm http://t.co/0wSRLzXrqc
+56. Only 30 minutes until @jpetazzo's talk on @Docker at @AWSreInvent! Head to Palazzo N now to save a seat! https://t.co/zHxql3oPWF #reInvent
+57. RT @hasjo1: The line has already started for the @docker talk at @AWSreInvent #reinvent #Docker http://t.co/drwxNAjPeB
+58. #reInvent attendees: don't forget to tweet your #dockerselfies! our fave will win an Apple Watch! Visit booth 445 for more info @AWSreInvent
+59. RT @rajat_g: 10000 (!!!) containers on @docker. Netflix keystone @AWSreInvent http://t.co/LX2xeTQQmh
+60. Learn how @Zenoss delivers software defined operations with @Docker on Oct 14th at 10am PDT http://t.co/2efqEq32au http://t.co/8jXV6jYgBO
+61. In 15: @bellevuesteve &amp; @socketnorm discuss hosting #net apps in @awscloud with @docker at @awsreinvent https://t.co/QqWwCkoekC  #reInvent
+62. @Linuturk well done 👍🏻
+63. Aggregate @Docker Monitoring with @PrometheusIO, #cAdvisor and @StackEngine by @behemphi: http://t.co/a9MPDQiilJ
+64. @Linuturk you forgot to include #dockerselfie...
+65. Ready for @jpetazzo's @Docker session at @AWSreInvent at 4:15? Get there early because it will be packed! https://t.co/zHxql3oPWF #reInvent
+66. In 10 min: @hacktifish &amp; co from @turbine present a #microservice approach to 3B game requests a day: https://t.co/poEEwl4HkB @awsreinvent
+67. Check out our @docker demo for some fresh new goodies at Booth 445 by @AWSreInvent Partner Theater! #reInvent http://t.co/fxAP1gzNj8
+68. RT @mikegcoleman: I'm excited to talk about @docker and simplifying the IT stack at #PuppetConf 2015.  http://t.co/FMc0YErwQ3
+69. RT @calvinfo: New post: Rebuilding our Infrastructure with Docker, ECS, and Terraform https://t.co/yj8Nq2uA0U
+70. Containerized Testing for @nodejs Applications with #Dockunit by @tlovett12 via @scotch_io blog: https://t.co/uBMDBlN2ED @Docker
+71. RT @AdrienBlind: Tonight's #docker Paris meetup is #live on #dailymotion thx to 42 school crew : http://t.co/5ezkrZTkeF  /cc @docker http:/…
+72. last chance to save a seat for @jpetazzo’s @Docker talk at @awsreinvent at 4:15 pm: https://t.co/zHxql3oPWF #reInvent hurry! only a few left
+73. RT @icecrime: Docker shiny new network UX is merged, and will ship with 1.9.0! Crazy work by @MadhuVenugopal and team #BOOM https://t.co/sm…
+74. @diogomonica @iamnayr @theghodss @YunongX @ashw7n video available here: http://t.co/Jxq2pl6Bqv
+75. @frazelledazzell @misterbisson @perrykrug @smw355 @tianon @tnachen video available here: http://t.co/XoZTIXr5AZ
+76. At @awsreinvent? @newrelic’s @KevinMcGUI’s talk on app monitoring in a post-server world starts in 20 min: https://t.co/xbcSgwsGl9 #reInvent
+77. Use @Docker Machine &amp; Compose with @AWScloud EC2 to Automate Persistent Apps by @KendrickColeman via @EMCcode blog:  http://t.co/fPLo93PDRF
+78. Storage and Modularizing the @Docker Volume Driver Eco-System by @clintonskitson via @EMCcode blog: http://t.co/yG5oHPFCWy
+79. #ContainerSummit Panel on The Future of #Containers in Production with @frazelledazzell @misterbisson @perrykrug @smw355 @tianon @tnachen
+80. #ContainerSummit video: "#Containers are Eating the Enterprise" w/ @diogomonica @iamnayr  @theghodss @yunongx @ashw7n
+81. The Hitchhiker's Guide to @Docker and @OnModulus by @huseyinbabal: http://t.co/iONcxEOLl7 via @tutsplus blog #docker http://t.co/ORHn6Pq1hT
+82. Guide on how to use @Docker to optimize a @WordPress website hosted on a VPS via @ovh_uk blog: http://t.co/eWPYEvRdMA http://t.co/OT2uZkzleE
+83. Simple guide on migrating from #Boot2Docker to @Docker Toolbox by @Shashikant86 - http://t.co/jsouaefkj9 http://t.co/8sfHpzxh2J
+84. Thoughts from @QBurst's Praven John on why @Docker is #DevOps' new best friend - http://t.co/wmx2bdDrSy #Docker http://t.co/yacoTuJ2MZ
+85. Testing PHP code using @Docker http://t.co/hZEw3kPXTg by @titpetric http://t.co/EI3AZtp71Y
+86. Handy collection of @Docker web components: https://t.co/yuKwFauB1d
+87. We're at Booth 445 next to @AWSreInvent Partner Theater. Stop by! #reinvent @docker http://t.co/RfCRAQFPeZ
+88. At @AWSreInvent? Which #container talks are you attending? Here's our list of must-attend @awscloud #reInvent talks: http://t.co/S3YMXCZDUg
+89. "Quick Tip: Running @WildFlyAS @Docker Image on @OpenShift Origin" by @myfear: http://t.co/iNUNlRiNTr http://t.co/2jM6t9eWbY
+90. Don't miss @jpetazzo discussing deploying @Docker in production at 4:15pm on Wed at @AWSreInvent! Sign up here: https://t.co/zHxql3oPWF
+91. RT @silvamerica: IFTTT ❤️ @docker. Check out my blog post about our tools that make it a joy to use! http://t.co/ylZKfNyjOI
+92. 5 More Popular @Java-based @Docker Images: @jettyproject, @jenkinsci, @cassandra, @ApacheMesos &amp; #Java via @opendeis
+93. @IvanAtDell stay tuned - we're working on organizing more #Docker #meetups around the world!
+94. Tutorial on how to use @Docker Machine with @OpenStack by @scott_lowe http://t.co/Pg20in6Efz via #OpenStack Superuser
+95. RT @codeship: "Exploring @Docker's New Content Trust Feature" – via @raesene
+
+Thank you, Rory!
+
+http://t.co/i3mVYkuDot http://t.co/2hgS0Z4w…
+96. @AndrewBikes 2 options: 1) #Docker swag for purchase: http://t.co/6EpU5xOEMq or 2) http://t.co/6pvQtdZ7zq - attend the next local meetup!
+97. Great write-up from #dockerhackday SF Local Edition winner @booyaa on why he participated: https://t.co/V4NNj0vaL5 http://t.co/6I9ltbuRzy
+98. Visualize @MySQL Performance Schema With @Docker by Derek from @Pythian http://t.co/8TlXrEhaTx #Docker #DevOps #MySQL http://t.co/r5UtZSHZ1t
+99. Deploy a @golang app to a minimal sized @Docker #container by @chadlung - http://t.co/DZpTNPptC1 #Docker #golang http://t.co/j6g41ftYu7
+100. Deploy @Docker #containers in #IBM @urbancode hybrid clouds by @snayak_ie, @Mike_Samano &amp; Noel http://t.co/k0k7sdOaDA http://t.co/jDLGwRiwBN
+101. Interesting read from @WSJ on rise of #microservices and #Docker leading the charge http://t.co/HxxeXNXas0
+102. Ready for @AWSreInvent? Remember to sign up for @jpetazzo's talk on deploying @Docker in production at 4:15pm on Wed https://t.co/zHxql3GqOd
+103. .@Docker compose and ELK – setup in automated way - http://t.co/InYWmJMXTs http://t.co/BhQRUto8RE
+104. RT @ahmetalpbalkan: ★ Docker Swarm Clusters on Azure ––we made it super easy to set up swarm on the cloud. Read on: https://t.co/mcYVSVEkxM…
+105. Create centralized logging in @Docker #containers with @nodejs and @IBMBluemix http://t.co/s1a6Y7oUAm #Docker http://t.co/4wLl0AYDJr
+106. Upcoming @Docker #meetups this week in Chicago, Zagreb, NYC, Saigon, Copenhagen, Santiago &amp; Austin - see you there? http://t.co/nML4hFUTVr
+107. Your @Docker Agenda for @AWSreInvent 2015 - don't forget to sign up for @jpetazzo's talk: http://t.co/S3YMXCZDUg #aws #awsreinvent #Docker
+108. @leonardofed stay tuned! we're working with partners to bring more official #docker trainings to other cities around the world
+109. Want to #learndocker? Official @Docker Training courses are coming up in Paris, Las Vegas, NYC &amp; Hamburg - register: https://t.co/rgLfyUzdix
+110. Video from @ischpc of @CQnib explaining how to spin up different stacks using @Docker: https://t.co/mC2D30OQkQ http://t.co/wDq9rn62B8
+111. Hello World in 15 Steps with Mono and C# on @Docker by Armen Shimoon – http://t.co/gMVrPX50PF http://t.co/amD4Mck10C
+112. Video of workshop at @ischpc on @Docker-assisted Software Development by Johann Weging - https://t.co/Qq4ZlP970M http://t.co/q6qka5PbCe
+113. Video from @containercamp on @Docker network performance in the public cloud by @arjanschaaf https://t.co/XCbaS0NQvl http://t.co/a3szZkqLBJ
+114. Q&amp;A with @Docker's @scottcjohnston and @CoreySandersWA from #AzureCon - watch now: https://t.co/NwdtKg7COA @Azure http://t.co/oi9dFoH8pI
+115. Blog post on using #DockerMachine to control @Docker Hosts on @googlecloud by @iRomin - http://t.co/gzV7IvKa5F http://t.co/cxcuczESvA
+116. Video of @holgrrr presenting "@Docker in a Nutshell" at #Docker workshop at @ischpc 2015 - https://t.co/3fBJumwRKz http://t.co/eremuNpdQV
+117. RT @jitterted: Slides are up! The Saturday morning version of my @Docker talk at this weekend's Silicon Valley Code Camp #svcc: http://t.co…
+118. .@Docker image with Tor, Privoxy and a process manager under 15 MB https://t.co/bDDRx9gznn by @rdsubhas
+119. RT @aluzzardi: Load testing @docker #Swarm on a thousand nodes cluster /cc @vieux @abronan http://t.co/yNvoOFWjwu http://t.co/ZfbK1cLHtT
+120. Learn how to deploy @Docker in production w/ @AWScloud at @AWSreInvent w/ @jpetazzo - talks starts at 4:15 pm on Wed https://t.co/zHxql3oPWF
+121. RT @diogomonica: A @docker image walks into a Notary #dockersecurity https://t.co/D01yj7LLDK
+122. RT @frazelledazzell: Mad props to @docker contributors who join a large project, fix bugs &amp; turn into our friends. Congrats to our newest m…
+123. RT @1Vizuri: new dates &amp; locations for Docker "Administration &amp; Operations", 2-day, official @docker classroom training http://t.co/kKygzt8…
+124. RT @AshlynnPolini: #qotd When you're part of a community your title and background do not matter. Marianna Tessel @docker #githubuniverse
+125. Even our founder @solomonstre has his PRs rejected -- Marianna Tessel #docker #githubuniverse
+126. To build a great #community - make it part of your DNA #docker #githubuniverse http://t.co/bWNgx0HOSc
+127. Off to Las Vegas for @AWSreInvent next week? Join @jpetazzo on Wed as he discusses deploying @Docker in production: https://t.co/zHxql3oPWF
+128. Cool tools, @gordonTheTurtle, hard-working maintainers &amp; awesome users = strong #docker project http://t.co/molkXGhO6P
+129. RT @palaciocondor: Community is not a monolith; it's about people #mariannatessel @docker #githubuniverse http://t.co/2g61EsFgca
+130. 77% of all code contributions come from outside of #docker -Marianna Tessel on docker #community #githubuniverse
+131. The #docker project grew over 18,000% in the last year #githubuniverse #community http://t.co/u8MWwRJe4B
+132. Watch Marianna, SVP of Engineering at @Docker, present on inspiring #community at #githubuniverse: http://t.co/3vW48X7UhL @githubuniverse
+133. Your @Docker agenda for October includes #meetups, #Docker training, webinars and more: http://t.co/NQtRnnoRZW http://t.co/gbaIeYol0f
+134. Our own Marianna Tessel is all mic'd up @githubuniverse &amp; ready to give her talk on how #docker inspires #Community http://t.co/6MoTCSJmvf
+135. RT @icecrime: On my way to @githubuniverse: come chat about @Docker, open source, or that PR of yours we should absolutely merge! http://t.…
+136. Looking to #learndocker? Sign up now for Official @Docker Training courses coming up in Rennes, Las Vegas &amp; Hamburg: https://t.co/rgLfyUzdix
+137. "Dreaming with Computational Legos - @Docker &amp; #Microservices" by @mnbernstein at @austinapi: https://t.co/kx9SJgwaoR http://t.co/vvRg1uewLb
+138. @iHar5had yes, thanks for the reminder. We'll publish it tomorrow :)
+139. Video of @dalmaer discussing the power of #Containers and #Microservices - https://t.co/ngAF4qrqoa via @IBMWebSphere http://t.co/VbYHvN3v9V
+140. Dude, Where's My Data? Persistence with @Docker - training video by @KendrickColeman from @EMCcode https://t.co/61MiiVpxIw #learndocker
+141. RT @pixelstackcom: Just published some of my recent learnings with docker machine. https://t.co/GJ1FQs1hBb #webdev #docker
+142. RT @dennybritz: Just published: A Brief Guide to the @docker Ecosystem: http://t.co/Kd4RcuD2BE
+143. RT @bridgetkromhout: Visiting @docker SF office with @caseywest (thanks, @jpetazzo). One conference room contains mountains! #dockerselfie …
+144. Headed to @AWSreInvent next week? Don't miss @jpetazzo discussing @Docker production deployments on Wed at 4:15 pm: https://t.co/zHxql3oPWF
+145. Congrats @ndeloof &amp; @yoanndubreuil on #Jenkins-@docker-slaves winning third place for freestyle hack: https://t.co/38edoZFHwi #dockerhackday
+146. Congrats Madhuri, @ryanwallner &amp; Sean on Flocker Profiles winning 3rd place for best plugins hack: https://t.co/x4HhbUD75D #dockerhackday
+147. RT @wimtobback: Belgium @docker meetup Full house (container) #docker #bluemix #cloud http://t.co/kweSnPrzpH
+148. RT @Rancher_Labs: New Blog: Using @Docker Compose to define #RancherOS System Services by @imikushin http://t.co/4URvDwlZMp http://t.co/k70…
+149. Q&amp;A from @Docker Basics Webinar on Understanding Union Filesystems, Storage and Volumes: http://t.co/zAXIOM3JaH http://t.co/4OhqNahTNT
+150. More confirmed @DockerCon EU 2015 speakers announced including @xemulp, @oyadutaf, @nathanmccauley and @diogomonica - http://t.co/CG3Jk46CTi
+151. Great slide deck covering @Docker basics by @RobertReiz  http://t.co/KPHVPhpBEI #containers #DevOps #Docker http://t.co/amXvkeC7CC
+152. .@Docker and #LegacyApplications: Better Together? by @kwikstx via @ContainerBlog - http://t.co/1g3xFWkwaZ #Docker http://t.co/wzvFwTMM1x
+153. "#Containers everywhere! Getting started with @Docker" by Kat McIvor from @QAtraining via @TheRegister http://t.co/ERYQ8foksm
+154. WEBINAR: Tomorrow, see Docker in action during our live demo. Save your seat here http://t.co/c5x0FE6X0s http://t.co/SW1VgsNyB0
+155. RT @illumio: .@Docker and @Mesosphere get Illuminated with continuous #security at #DevOps Speed. http://t.co/NKmi1goBC3 http://t.co/aTwxEP…
+156. Missed today's #DockerWeekly? Read the latest @Docker news+hacks: https://t.co/5ys2kC9Qf7 Catch up with the archives: http://t.co/MeC2AFka8M
+157. Congrats @DejanGolja &amp; @dhowden on winning 2nd place for @Docker Token Auth Servie hack (freestyle): https://t.co/dn17XHDxOx #dockerhackday
+158. Congrats @kcqon &amp; Dmitry on winning 2nd place for Dockerslim hack (plumbing): https://t.co/7eiKEM5r5j #dockerhackday http://t.co/NJlKMZzytS
+159. Congrats @waitingkuo and @zooeypeng on winning 2nd place for @Docker MQTT Log Driver hack (plugins): https://t.co/5MJDVYIwA0 #dockerhackday
+160. Space is filling up quickly for @docker Palo Alto meetup @medallia on Oct 14 w/@cisco and @sysdig! RSVP here: http://t.co/TUjUvVbxTM
+161. 4 new official repos in @Docker Hub including @GazeboSim, @rocketchatapp, @joomla and Redmine: http://t.co/MANBuNokVd http://t.co/ohbWoqD2gg
+162. Get started with @Docker Subscription on #AWS with Cloud Formation Templates - check it out: http://t.co/Qo4zX1jSVo @awscloud #Docker
+163. In one hour, join the #Docker webinar featuring #Harbortouch using Docker Hub and Travis CI for crazy fast deploys https://t.co/kDCnVuugJf
+164. RT @CloudBees: Congrats to @ndeloof and @YoannDubreuil for earning 3rd Place in the Freestyle category at #dockerhackday!!! @Docker http://…
+165. Let us know how you use software marketplaces and enter to win a 16GB #iPadAir! Complete the short survey here: https://t.co/huleB7LJMU
+166. Introduction to @awscloud EC2 Container Service http://t.co/Lwtc6WjnPi by @benjaminwootton from @ContinoUK via @InfoQ
+167. Using @weaveworks to Network a @Docker Multi-#Container @Java Application by @GaryStafford: https://t.co/phIhj8XlRz via #DockerWeekly
+168. RT @sskorc: 5 reasons I like @docker: https://t.co/YDHSaEAVC7
+169. RT @IamStan: @adrianco @docker @icecrime I Haz Container .. http://t.co/5uzLlaN2mj
+170. Learn about @microsoft's @Azure #Container Service for easy @Docker deployment announced at #AzureCon - http://t.co/fdhsJVlorS via @pcworld
+171. RT @dantehranian: Banjot Chanana from @docker presenting at @delphix Engineering Kick Off! http://t.co/Y5Q4KUiZpW
+172. today's news + @Azure partnership gives #IT teams choices, not constrained by tech - @scottcjohnston at #AzureCon: https://t.co/aPVGjmqM55
+173. Devs get agility &amp; speed w/ @docker, #DevOps gets governance &amp; security they want/need -@scottcjohnston at #AzureCon https://t.co/aPVGjmqM55
+174. At @DockerCon EU 2015, expect continued examples of production deployments - @scottcjohnston at #AzureCon https://t.co/aPVGjmqM55 #DockerCon
+175. Partnering with @microsoft allows #DevOps to use same tools on different platforms - @scottcjohnston at #AzureCon: https://t.co/aPVGjmqM55
+176. Can use @Docker Hub + @Azure #Container Service to build apps by mixing &amp; matching - @scottcjohnston at #AzureCon: https://t.co/aPVGjmqM55
+177. .@Docker's SVP of Product Management @scottcjohnston is now LIVE with @CoreySandersWA at #AzureCon https://t.co/aPVGjmqM55 @Azure
+178. RT @ahmetalpbalkan: ✨ Persistent Docker Volumes on Azure. Read: https://t.co/9agUvCf7gE http://t.co/cpKGIvwGMG
+179. WEBINAR: On Oct. 1 at 10am PDT witness the power of @Docker - save your seat http://t.co/KXcczWZGM0 http://t.co/lyx9QWWpdE
+180. Thanks all for participating in #dockerhackday 3! Check out the winning @Docker hacks here: http://t.co/sGLrSBde1c http://t.co/g9sP09rA0Z
+181. Slides from @csanchez's talk at @jenkinsconf on Scaling @JenkinsCI with @Docker and @kubernetesio: http://t.co/v5U2aM6SVR via #DockerWeekly
+182. Congrats to #dockerhackday winners: @sdaingade, @sarjeetsingh and @kssmitra for On-demand YARN Clusters (freestyle) - http://t.co/sGLrSBde1c
+183. Congrats to #dockerhackday winners: @marcosnils, @xetorthio and @geisbruch for #Container Migration Tool (plumbing) - http://t.co/sGLrSBde1c
+184. Congratulations to #dockerhackday winners: @ankushio and @hmittal83 for ScaleSwarm (plugins) - http://t.co/sGLrSBde1c http://t.co/NWiaEonygi
+185. How do you use software marketplaces? Let us know by completing this survey and enter to win a 16GB #iPadAir: https://t.co/huleB7LJMU
+186. RT @akozlov75: Let's show begin... #dockermeetup @docker @Azure http://t.co/vbA0Omx7mN
+187. Video on Demystifying the @Docker Ecosystem by @borja_burgos at @digitalocean #meetup: https://t.co/t3hTB4TB7P @tutumcloud via #DockerWeekly
+188. In last week's #DockerWeekly, great overview on running @Drupal in @Docker by @mstivaktakis: http://t.co/85lsjCf6Ej #Docker #Drupal #backend
+189. #learndocker at @DockerCon EU 2015! Learn more about new hands-on @Docker labs at #DockerCon: http://t.co/9PttallnSn http://t.co/U6Ewfnxi2p
+190. In last week's #DockerWeekly: How to Setup a @Docker Environment on PowerPC servers running RHEL7 LE: http://t.co/dQZ5owMnd8 via @cloudgeekz
+191. Is it a privilege to run a #container in @Docker? Great blog post by @jkshah in last week's #DockerWeekly: http://t.co/1XA2pYnW1w #Docker
+192. Guide on how to build #VM Images from @Docker #Containers by Max Rottenkolber - http://t.co/abKAzsQBZw via #DockerWeekly
+193. @ahmad_aabed we did but just want to double check and make sure everyone followed the rules for voting :)
+194. RT @ahmetalpbalkan: Speaking at @Docker Seattle Meetup
+
+🐝Native DNS Service Discovery for Docker-Swarm… I'll open source it live on stage h…
+195. @ahmad_aabed finalizing the social votes and bonus points today - winners will be announced on @docker blog tomorrow: http://t.co/Kvlv2qox5c
+196. A @VoltDB intern's work: Accelerating continuous integration with @Docker by @shenrui1992 - https://t.co/ELQhXm9hfr #CI #docker
+197. In last week's #DockerWeekly: "End-to-end #CI/#CD pipelines with #DockerHub 2.0" by @tom_trahan on @BeShippable blog: http://t.co/pizhJMG0Wf
+198. thanks for participating in #dockerhackday 3! voting has closed - update on winners soon. see the cool @docker hacks https://t.co/EHzQEaw2dG
+199. Want to see Docker hub in action? Save your seat for tomorrow’s webinar at 10am PST! http://t.co/8C6zUyPWCl http://t.co/M7HVeZAYai
+200. Reduce #DevOps Friction w/ @Docker &amp; @JenkinsCI by @apemberton &amp; @kmadel at #Docker Raleigh #Meetup http://t.co/FzfNaC8k9I via #DockerWeekly

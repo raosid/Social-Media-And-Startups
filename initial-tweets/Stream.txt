@@ -1,0 +1,135 @@
+1. @NextBigTechIdea the example app is fixed ;) https://t.co/xR8xQzYqxI
+2. @meyerkenny do you already have a commenting system for your app?
+3. A great article about Stream just went live on @sitepointdotcom https://t.co/Xj649KajiY kudos to @bodrovis
+4. @makhija_piyush We do not have a plan for the Go client yet. I suggest you to engage with the maintainer of the project (eg. Github issue)
+5. @makhija_piyush the go client is currently supported by Stream's community. What features are you missing from there?
+6. Stream (@getstream_io) is hiring a Lead UI/UX Designer in Boulder! Come apply at https://t.co/RPFy7NTRr1 https://t.co/RPFy7NTRr1
+7. @JoshFabian that's definitely possible. let us know if you need any help setting that up!
+8. . @getstream_io provides free feed technology to the amazing @GlblCtzn. Reach out if you're a non-profit! @techstars #givefirst
+9. Stream is hiring! Senior web designer in Boulder. Devops &amp; Python in Amsterdam. https://t.co/pzHWea5Ruf @techstarsjobs
+10. Amazing companies, congrats @techstars and all the founders! #techstars #boulder http://t.co/PTQs08hu0g http://t.co/LyyUJw8rdG
+11. Stream is searching for an amazing UI/UX designer in Boulder: https://t.co/NcKDLZJTe4
+12. @seancull Thanks for the tip! Did you see our Java library? http://t.co/P2MuvubRqf
+13. @seancull which language are you using? Rest docs are available here: http://t.co/mvtXs5ZEVg (not 100% complete just yet.)
+14. RT @JustJadams: High on my watchlist : @getstream_io Raises $1.75M. Such a slick newsfeed &amp; open source http://t.co/00AouJ1Tsg
+15. RT @moiseyuretsky: NYC @Techstars alum @getstream_io Raises $1.75M http://t.co/jX5v9bIlFl via @techcrunch
+16. RT @jedc: Really happy to see @getstream_io raise $1.75M in funding; great team (@techstars NYC grad!) and awesome product. http://t.co/uzu…
+17. Stream raises $1.75m: http://t.co/YdEFILkmhI @techstars @arinewman @bfeld
+18. RT @alexiskold: Boom! @getstream_io Stream @techstars '15 grad Raises $1.75M seed round. Via @TechCrunch  http://t.co/uWypRcPWCr
+19. Stream (Techstars NYC 15) (@getstream_io) is hiring a DevOps Engineer in Amsterdam! Come apply at https://t.co/Dqg9YyLelj
+20. @ripienaar we have HTTP APIs, a collection of clients in many languages and a data browser in the dashboard.
+21. @NextBigTechIdea it's a public example app so anybody can break it. Code base works well though, we'll reset the demo app soon!
+22. @NextBigTechIdea we are going to revamp and fix issues on the Parse example really soon!
+23. Stream's hiring in Boulder: Machine learning, Design, NodeJS and Amsterdam: Python, Devops http://t.co/dcCokQMNhT
+24. Stream (Techstars NYC 15) (@getstream_io) is hiring a Senior Python developer in Amsterdam! Come apply at https://t.co/4wvxw4r9au
+25. Stream is hiring! Machine learning, Node, Design and internship position in Boulder. #boulder #jobs #machinelearning http://t.co/dcCokQMNhT
+26. @Jippi not really. Clients are built around Stream's APIs. stream-framework doesn't come with an API out of the box. https://t.co/hyW630l0Vw
+27. Super proud they've chosen Stream to power their feeds. Great cause, join now at http://t.co/mAzAtidmuD https://t.co/heqhtMmkhQ
+28. @cyprianpl we should have PubNub transport ready this month
+29. RT @Wayne: READ: How six people built the #2 most popular mobile analytics tool in just a few months. http://t.co/RKq8r2PydO http://t.co/NV…
+30. Social sharing using getstream java client api in spring boot http://t.co/xOfXTiO6NS via @HelloNisos
+31. Only 2 weeks left to apply to @techstars NYC for Fall 2015 session. Do it! http://t.co/mzL86FVSzz
+32. RT @alexiskold: Accelerate your startup. Apply to @techstars NYC fall session. http://t.co/bEu90WeeAF. Deadline is June 28th. http://t.co/p…
+33. 5 reasons to use Cassandra for building your newsfeed http://t.co/03zykM1QFA
+34. Stream-Framework is going to have a built-in transport to send feed updates using @PubNub really soon :)
+35. . @mongodb we've released a nodejs package to build newfeeds and activity streams with mongodb and getstream.io! http://t.co/553YDShjdQ
+36. Check out our example app built with #nodejs and Stream http://t.co/0ZqtbRVg06 @NodeJsCommunity @FriendsOfNodeJS @nodejs
+37. Here are some products I like on @ProductHunt: http://t.co/IhbceV28wS
+38. @gokmengorgen awesome, that's great to hear, feel free to reach out to support if you have feedback or questions!
+39. @davemorin congrats on Slow 4! https://t.co/fqs4ZtyR0W
+40. GetStream_io's NodeJS integration (beta) is out! http://t.co/qJ2PwAYesf @nodejs @NodeJsCommunity @nodejsTweets
+41. We have many users in production and we won't leave them in the cold. There is an open source and backups to S3. https://t.co/V128s02cpW
+42. Hi Joshua, Stream is normally integrated from your server side backend. What language are you using? https://t.co/fV9vKVF6jN
+43. RT @techstars: .@getstream_io has grown 55% WoW &amp; their open source solution was downloaded 250,000 times! Sign up today=&gt;http://t.co/7de0O…
+44. RT @alexiskold: .@getstream_io has grown 55% WoW &amp; their open source solution was downloaded 250,000x! Sign up today =&gt; http://t.co/7WFtmIv…
+45. RT @alexiskold: .@getstream_io is new kind of data store designed for building, scaling and personalizing feeds. Try it at http://t.co/wVf2…
+46. RT @rbpasker: Messaging is too low-level for most apps.  @getstream_io finally gets internet-scale stream datastore right. #nycdemoday
+47. RT @gregory: Building web apps is getting more and more like Legos. Snap together @elasticsearch, @mongodb, and now @techstars' @getstream_…
+48. RT @dankantor: Congrats to @getstream_io on a great presentation at Techstars NYC demo day! #tsdemoday http://t.co/WgbE19IMYA
+49. Thanks @alexiskold for the amazing post about Stream, http://t.co/54UQBHTyAa
+50. RT @alexiskold: Win a ticket to @techstars Demo Day on Friday, Apr 17!
+Tweet: I want to be at NYC Demo Day @alexiskold @techstars! http://t…
+51. RT @alexiskold: Win one of 25 reserved tickets @techstars Demo day. Tweet: Hey @techstars, @alexiskold I want NYC Demo Day Ticket! http://t…
+52. we are building a #nodejs integration, what is you favorite database backend library? @NodeJsCommunity @FriendsOfNodeJS @nodejs
+53. RT @alexiskold: Win a ticket to @techstars Demo Day on April 17th. 
+Tweet: Hey @techstars, @alexiskold I want NYC Demo Day Ticket! http://t…
+54. one of our users just contributed a .net client! http://t.co/ZSTE8Xpk4O
+55. @upbis_cto thank you for the kind words http://t.co/LGivnflaet Let us know about your experience with @getstream_io @keymetrics_io
+56. Our official #Java client is out! http://t.co/P2MuvtUgyH @java @javacodegeeks
+57. We just built a Twitter clone with Stream and #django check it out https://t.co/ifBRX45Efi @djangoproject @nikolatesla @einstein
+58. Improved latency &amp; Java client http://t.co/I6NPHhAkba
+59. @AntoineAugusti adding it to our backlog
+60. @AntoineAugusti well this is embarrassing, but password reset is the only way to do that for now.
+61. @AntoineAugusti that doesn't sound good. there's the password reset button if you try to login.
+62. @esoufy we modelled it after the activity stream spec. not 100% the same though.
+63. @DanSchoonmaker this friday!
+64. RT @AWSstartups: Great post from @getstream_io on their Cassandra migration to #EC2 - http://t.co/Avf4iTq5zd http://t.co/QYIl6ZxrWD
+65. Our Laravel example app https://t.co/bQ3DZGETxa just got upgraded to Laravel5! @laravelphp
+66. Migrating @cassandra to EC2 http://t.co/xVCZ1lQ04V #cassandra #ec2 @PlanetCassandra @awscloud
+67. RT @highscalability: Cassandra Migration to EC2: 
+This is a guest post by Tommaso Barbugli the CTO of getstream.io, a web service f... http…
+68. @laravelphp @getstream_io's client now works is now #Laravel 5 compatibile. Building news feeds and notification feeds was never so easy!
+69. How to build a notification feed using Stream: https://t.co/wgW8WQpUGT
+70. RT @highscalability: The Architecture of Algolia’s Distributed Search Network: 
+Guest post by Julien Lemoine, co-founder &amp; CTO of A... http…
+71. @JustinRaczak @Croaky awesome! let us know how it goes :)
+72. High level tips to reduce #redis memory usage
+http://t.co/51W5TtyP6u @redisfeed @rediscookbook @RedisWeekly
+73. Stream Framework now runs on Python 3 @ThePSF, thanks to Anislav, @rustyrazorblade and @blakeeggleston http://t.co/BP8gsLfFvh
+74. RT @alexiskold: Not sure if @classpass is the next @Uber but it is a force of nature. Another amazing @techstars alum! http://t.co/oPj5CCy8…
+75. RT @alexiskold: Love tough problems? Join @getstream_io as Python Engineer: http://t.co/VOU16nGI0J Here are other @techstars NYC jobs http:…
+76. RT @keymetrics_io: Keymetrics/PM2 is officially up and running! https://t.co/xecssVq5GL #nodejs #pm2 #monitoring
+77. @programmableweb thanks guys, glad you like Stream :)
+78. @thesleepyvegan @newrelic any plans for Cassandra?
+79. @oliveur thanks so much for all the help, super impressive business &amp; tech you guys have built #techstars @alexiskold
+80. Thank you @kellan for your advice #techstars. http://t.co/RiWs1DXiYT is very interesting @jattenberg
+81. 5 reasons to use Cassandra for building your newsfeed, http://t.co/URm1v6lDKN @DataStax @PlanetCassandra @cassandra #scalability #cassandra
+82. Asking NYC most influential devs for feedback, https://t.co/7AWRvr9C0v @MacDiva @brianloveswords @jedschmidt @wschenk @adammilligan
+83. 5 brilliant posts about newsfeeds http://t.co/2W8xpqi9LA , @nk @raffi @YahooResearch @mcfunley @rbranson @highscalability
+84. @heroku So proud to see our logo listed here https://t.co/6iYI7a2V4a
+85. @mojombo love what you guys are doing at @codestarterorg, thanks for your feedback on https://t.co/6SoDv6ppkw! #techstars
+86. Stream is joining @techstars NY, dropping the BETA sticker, and launching 4 new features http://t.co/QPdrtrmAId
+87. RT @alexiskold: Congrats to @Localizejs @lsqio @pilotfiber @SpoonUniversity @getstream_io @UniqueSoundOff on joining @techstars NYC! http:/…
+88. RT @techstars: Announcing the 12 new companies joining @techstars NYC for the Winter 2015 session! @alexiskold http://t.co/rGjorR7yJf
+89. @onpingo could you get in touch with support at getstream.io. I think we no longer have the right contact details.
+90. @kevinkimball_ Thanks Kevin!, what are you building?
+91. RT @paulmwatson: On-boarding experiences like @getstream_io engender trust. http://t.co/Nf9bRn6F6C
+92. REST docs for GetStream.io are now available, http://t.co/Oy4madJkBL
+93. @chakrit I see the GO client is progressing nicely :) First iteration of the REST docs is available here: https://t.co/2jMqZgR7Id
+94. @chakrit a few days out, sometime next week probably.
+95. @smallufo we're getting to work on Java, also the REST docs will be available soon!
+96. RT @tschellenbach: Scalability as a service, http://t.co/0fXRnWdWfM, @algolia @elasticsearch @PubNub @jcoglan @getstream_io
+97. @DickTalens yes, no problem. you can fallback to the stream-python integration.
+98. Multi region support for GetStream.io http://t.co/LEHAG2rAvu
+99. Teams, Organizations and Topics http://t.co/Ca4Ow1vGSN
+100. @DickTalens we have some updated docs about this: https://t.co/blokt4IU1B
+101. @DickTalens comments tend to be slightly different for every app. best to keep your comments stored outside of getstream.io
+102. @DickTalens sure it's pretty easy, but more than 140, will send you a message.
+103. @DickTalens thanks!, what are you building?
+104. @peregrine I can't reply to the DM, but would like to learn more about what you're building.
+105. @peregrine please PM or email support@getstream.io so we can have a quick Skype call
+106. @peregrine this is commonly done by creating multiple feeds. let's have a short call and we'll discuss what you're building and how it fits.
+107. @peregrinele uniqueness is configurable, so that's possible https://t.co/5FJVYyfQDv alternatively you could also use an aggregated feed
+108. @peregrine Which client are you using? I would create a new "retweet" activity and add a reference to the original activity.
+109. How to build a scalable Twitter clone using @djangoproject and GetStream.io https://t.co/ANtKHoVrwH
+110. Tiny example app, Parse Cloud code, @emberjs and GetStream.io give it a try: https://t.co/yl5UdgvSYs
+111. Parse cloud code, @emberjs &amp; GetStream.io http://t.co/bksN7IJWU7 @ParseIt
+112. Data browser for GetStream.io and updated Ruby, @nodejs, Python and PHP libraries: http://t.co/JxmQdStZhD
+113. @validkeys thx! we just pushed out 4 renewed API clients and data browser functionality, let us know if you run into any trouble!
+114. Scalable activity streams/ newsfeeds with @rails and GetStream.io https://t.co/aJWDmfJL72
+115. RT @Vladiim: An #API for building activity streams, handy http://t.co/RLw1kiBfbq
+116. Scalable newsfeeds using @laravelphp and GetStream.io https://t.co/y1VVjzn44X #laravel #php
+117. Create activity streams and newsfeeds with @djangoproject and GetStream.io https://t.co/pRvafkYZlK
+118. @bryantchou we wrote a small piece comparing costs of an in-house redis solution vs our pricing, http://t.co/61rJoX4b4p
+119. As requested, @laravelphp based Pinterest esque app using GetStream.io and @heroku https://t.co/bQ3DZGETxa
+120. GetStream.io Pinterest style example app, Django/Python/Heroku 
+http://t.co/vQXfxDQgcw
+121. It's the little things, 500 page https://t.co/tREvV4D7dG &amp; 404 https://t.co/EtGPFsWUH1 thanks @thijsgoos and kuus
+122. Notification feeds, listening to changes in realtime, Node client and more http://t.co/6InLJZ7nOq
+123. The new design and documentation are live, https://t.co/7AWRvr9C0v, thanks @thijsgoos
+124. Stream clients are now available for Ruby, Node/JS, Python and PHP. https://t.co/fIUfzrBJe9
+125. @bryantchou you can built many types of applications, one of our latest customers implements a full pinterest style newsfeed. PM for more..
+126. @bryantchou what are you working on at the moment? did you give the https://t.co/RaCyVDTMPF a try already?
+127. @bryantchou getstream.io currently has many people testing the service and a handfull of apps running it in production.
+128. @bryantchou we've previously handled newsfeed systems at large startups and developed http://t.co/PezA1Cremv
+129. Design Decisions for Scaling Your High Traffic Feeds http://t.co/GyVX1BCTLF
