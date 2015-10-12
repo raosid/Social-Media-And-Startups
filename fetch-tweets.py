@@ -1,5 +1,5 @@
 """
-    Authour: Siddharth Rao
+    Author: Siddharth Rao
     Date: 10/11/2015
 
     Fetching public tweets from certain users
