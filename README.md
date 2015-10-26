@@ -24,7 +24,7 @@ Gathers information about startups based in the United States.
 Uses the [Angel List API](https://angel.co/api/) to fetch information about the startups.
 
 #### Files and Folders
-**angellist_get_companies**: Script to fetch information about the startups in the United States.
+**angellist_get_companies.py**: Script to fetch information about the startups in the United States.
 
 Note: Have to specify the page numbers in order to fetch data.
 
