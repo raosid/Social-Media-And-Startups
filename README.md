@@ -1,15 +1,31 @@
 # Social-Media-And-Startups
 
-Analyzing the effect of social media use by startups.
+Analyzing the effect of Social Media use by startups.
 
-###Files:
-**fetch-tweets.py**: The python script to fetch tweets.
+## Twitter Data:
+Fetches tweets for startups. Gets Tweets from two accounts:
+    * The Company's handle
+    * The CEO's handle
 
-**list-of-startups.csv**: A csv file containing the information of Startups
+Gets the handles from a CSV File. For each of the company, creates a new Folder wit two files containing the tweets from each of the above mentioned accounts.
 
-###Folders:
-**initial-tweets**: Contains text files for each startup with their respective tweets.
+#### Files and Folders
+**fetch-tweets.py**: The python script to fetch all the tweets.
 
+**list-of-startups.csv**: A csv file containing the information of Startups (Handles for CEO and the company)
 
-###Links:
-**Google Spreadsheet for companies**: https://docs.google.com/spreadsheets/d/1Pof7OZ3P0LJyPyosTuMKt07ok9jl47OYhYz8QbJbWYE/edit?usp=sharing
+**tweets/**: Contains all tweets for each of the company in the csv file.
+
+**initial-tweets/**: Contains the initial 200 tweets gathered for the first stage.
+
+## Angel List Data:
+
+Gathers information about startups based in the United States.
+Uses the [Angel List API](https://angel.co/api/) to fetch information about the startups.
+
+#### Files and Folders
+**angellist_get_companies**: Script to fetch information about the startups in the United States.
+
+Note: Have to specify the page numbers in order to fetch data.
+
+**companies/**: Has JSON files for 500 companies each of which stores the companies information as gathered from the Angel List API.
