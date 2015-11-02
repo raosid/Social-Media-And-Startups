@@ -56,4 +56,3 @@ def save_data_in_json_files(json_format):
 
 # Uncomment this line of code and provide the initial and the final page
 # number.
-#fetch_companies(5, 11)
