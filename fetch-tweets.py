@@ -33,8 +33,10 @@ def get_tweets_for_csv_accounts():
                 tweets_dictionary["ceo"] = []
 
                 # Getting the tweets for the company
-                tweets_dictionary["company"] = get_tweets_for_handler(row[0], row[1])
-                tweets_dictionary["ceo"] = get_tweets_for_handler(row[0], row[3])
+                tweets_dictionary["company"] = get_tweets_for_handler(row[0],
+                                                                        row[1])
+                tweets_dictionary["ceo"] = get_tweets_for_handler(row[0],
+                                                                        row[3])
 
                 # Saving the tweets in a .json file
                 save_tweets_to_file(tweets_dictionary, company_name)
@@ -59,7 +61,8 @@ def get_tweets_for_handler(company_name, handler):
         print "Fetching tweets for: " + company_name + "; " + handler
 
         # Fetch initial tweets in order to get the last id of the tweet
-        timeline_object = api.user_timeline(handler, count = 200, wait_on_rate_limit = True,
+        timeline_object = api.user_timeline(handler, count = 200,
+                                                wait_on_rate_limit = True,
                                             wait_on_rate_limit_notify = True) #limit is 200
 
         counter = 0
@@ -76,7 +79,8 @@ def get_tweets_for_handler(company_name, handler):
             print "     Getting tweets after id " + str(oldest_id)
 
             # making another request for 200 tweets
-            timeline_object = api.user_timeline(handler, count = 200, max_id = oldest_id, wait_on_rate_limit = True,
+            timeline_object = api.user_timeline(handler, count = 200,
+                                max_id = oldest_id, wait_on_rate_limit = True,
                                                 wait_on_rate_limit_notify = True)
 
             for tweet in timeline_object:

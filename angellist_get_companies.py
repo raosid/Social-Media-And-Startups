@@ -13,7 +13,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-TOTAL_PAGES = 2378 # looked up from a sample request.
+TOTAL_PAGES = 2500 # looked up from a sample request.
 
 def fetch_companies(starting_point, end_point):
     """
@@ -49,10 +49,13 @@ def save_data_in_json_files(json_format):
             if "/" in str(name):
                 name = startup["id"] # to prevent the companies having "/" in names
             print "    Creating file for " + str(name) + " ..."
-            destination = "companies/%s.json" %(name)
+            destination = "final_companies/%s.json" %(name)
             outfile = open(destination, 'w')
             json.dump(startup, outfile)
 
-
+# The first parameter included, the second one not.
+# Example: fetch_companies(2, 10) would fetch pages
+# 1 to 9
 # Uncomment this line of code and provide the initial and the final page
 # number.
+#fetch_companies(0, 10)
