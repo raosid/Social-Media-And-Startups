@@ -10,6 +10,7 @@ import json
 import os
 import sys
 from pymongo import MongoClient
+from bson.json_util import dumps
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -74,8 +75,12 @@ def fetch_user_info_from_api(list_of_ids, startup_id):
 
 
 def save_founder_info_in_founders_db(list_of_dicts, db):
-    for dictionary in list_of_dicts:
-        db.founders.insert_one(dictionary)
+    for founder in list_of_dicts:
+        json_object = json.loads(dumps(founder))
+        name_of_founder = json_object['name']
+        print name_of_founder
+        key = {'name': name_of_founder}
+        db.founders.update(key, json_object, True)
 
 
 def save_info_in_file(list_of_founders, name_of_company):
@@ -84,9 +89,12 @@ def save_info_in_file(list_of_founders, name_of_company):
             os.mkdir("founders/" + dirname)
 
         for founder in list_of_founders:
-            file_name = "founders/" + dirname +  + "/%s.json" %(founder['name'] + "_" + founder['id'])
-            outfile = open(file_name, 'w')
-            json.dump(list_of_founders[founder], outfile)
+            filename = founder['name'] + "_" + str(founder['id'])
+            path = "founders/%s/%s.json" %(dirname, filename)
+            outfile = open(path, 'w')
+            json_object = json.loads(dumps(founder))
+            print json_object["linkedin_url"]
+            json.dump(json_object, outfile)
 
 
 if __name__ == '__main__':
@@ -96,7 +104,7 @@ if __name__ == '__main__':
         name_of_company = sys.argv[1]
         id_of_startup = fetch_id_of_startup_from_db(db, name_of_company)
         list_of_founders = fetch_founders_for_startup(id_of_startup)
-        if len(list_of_founders > 0):
+        if len(list_of_founders) > 0:
             save_founder_info_in_founders_db(list_of_founders, db)
             save_info_in_file(list_of_founders, name_of_company)
         else:
