@@ -1,1 +1,259 @@
-{"aboutme_url": "", "image": "https://d1qb2nb5cznatu.cloudfront.net/users/817148-medium_jpg?1421482269", "locations": [{"angellist_url": "https://angel.co/san-francisco", "tag_type": "LocationTag", "display_name": "San Francisco", "id": 1692, "name": "san francisco"}], "resume_url": null, "id": 817148, "angellist_url": "https://angel.co/todd-conway-581", "what_ive_built": "", "what_i_do": "", "follower_count": 33, "skills": [{"display_name": "Doubleclick Bid Manager", "name": "Doubleclick Bid Manager", "level": null, "angellist_url": "https://angel.co/doubleclick-bid-manager", "id": 265617, "tag_type": "SkillTag"}, {"display_name": "Twitter Marketing", "name": "twitter marketing", "level": null, "angellist_url": "https://angel.co/twitter-marketing", "id": 81751, "tag_type": "SkillTag"}, {"display_name": "HTML", "name": "html", "level": null, "angellist_url": "https://angel.co/html", "id": 15592, "tag_type": "SkillTag"}, {"display_name": "Mixpanel", "name": "mixpanel", "level": null, "angellist_url": "https://angel.co/mixpanel-1", "id": 84645, "tag_type": "SkillTag"}, {"display_name": "SQL", "name": "sql", "level": null, "angellist_url": "https://angel.co/sql", "id": 15850, "tag_type": "SkillTag"}, {"display_name": "Optimizely", "name": "optimizely", "level": null, "angellist_url": "https://angel.co/optimizely-2", "id": 91273, "tag_type": "SkillTag"}, {"display_name": "Email Marketing", "name": "email marketing", "level": null, "angellist_url": "https://angel.co/email-marketing-1", "id": 17586, "tag_type": "SkillTag"}, {"display_name": "Digital Marketing Strategy", "name": "digital marketing strategy", "level": null, "angellist_url": "https://angel.co/digital-marketing-strategy", "id": 96431, "tag_type": "SkillTag"}, {"display_name": "Video Advertising", "name": "video advertising", "level": null, "angellist_url": "https://angel.co/video-advertising", "id": 25664, "tag_type": "SkillTag"}, {"display_name": "DoubleClick", "name": "doubleclick", "level": null, "angellist_url": "https://angel.co/doubleclick-1", "id": 103771, "tag_type": "SkillTag"}, {"display_name": "Digital Marketing", "name": "digital marketing", "level": null, "angellist_url": "https://angel.co/digital-marketing", "id": 27580, "tag_type": "SkillTag"}, {"display_name": "Zoho CRM", "name": "Zoho CRM", "level": null, "angellist_url": "https://angel.co/zoho-crm", "id": 120217, "tag_type": "SkillTag"}, {"display_name": "Online Video Platforms", "name": "online video platforms", "level": null, "angellist_url": "https://angel.co/online-video-platforms", "id": 42366, "tag_type": "SkillTag"}, {"display_name": "ZenDesk", "name": "zendesk", "level": null, "angellist_url": "https://angel.co/zendesk-2", "id": 120939, "tag_type": "SkillTag"}, {"display_name": "Growth Hacking", "name": "growth hacking", "level": null, "angellist_url": "https://angel.co/growth-hacking", "id": 79986, "tag_type": "SkillTag"}, {"display_name": "Google Tag Manager", "name": "Google Tag Manager", "level": null, "angellist_url": "https://angel.co/google-tag-manager-1", "id": 124140, "tag_type": "SkillTag"}, {"display_name": "Facebook Advertising", "name": "facebook advertising", "level": null, "angellist_url": "https://angel.co/facebook-advertising", "id": 16277, "tag_type": "SkillTag"}, {"display_name": "Asana", "name": "Asana", "level": null, "angellist_url": "https://angel.co/asana-2", "id": 130422, "tag_type": "SkillTag"}, {"display_name": "Content Marketing", "name": "content marketing", "level": null, "angellist_url": "https://angel.co/content-marketing", "id": 27166, "tag_type": "SkillTag"}, {"display_name": "Multi-channel Attribution", "name": "Multi-channel Attribution", "level": null, "angellist_url": "https://angel.co/multi-channel-attribution", "id": 131293, "tag_type": "SkillTag"}, {"display_name": "Google Analytics", "name": "google analytics", "level": null, "angellist_url": "https://angel.co/google-analytics-1", "id": 79871, "tag_type": "SkillTag"}, {"display_name": "Doubleclick for Publishers", "name": "Doubleclick for Publishers", "level": null, "angellist_url": "https://angel.co/doubleclick-for-publishers", "id": 146524, "tag_type": "SkillTag"}, {"display_name": "Social Media Marketing", "name": "social media marketing", "level": null, "angellist_url": "https://angel.co/social-media-marketing-1", "id": 17587, "tag_type": "SkillTag"}, {"display_name": "LiveRail", "name": "LiveRail", "level": null, "angellist_url": "https://angel.co/liverail-1", "id": 204763, "tag_type": "SkillTag"}, {"display_name": "Data Mining", "name": "data mining", "level": null, "angellist_url": "https://angel.co/data-mining-1", "id": 15608, "tag_type": "SkillTag"}, {"display_name": "Talkdesk", "name": "Talkdesk", "level": null, "angellist_url": "https://angel.co/talkdesk-2", "id": 225631, "tag_type": "SkillTag"}, {"display_name": "Outsourcing", "name": "outsourcing", "level": null, "angellist_url": "https://angel.co/outsourcing-1", "id": 28554, "tag_type": "SkillTag"}], "bio": "Co-Founder, Pillow", "blog_url": "", "twitter_url": "http://ToddJConway", "facebook_url": "https://www.facebook.com/todd.conway.581", "criteria": "", "startup_id": 333297, "investor": false, "name": "Todd Conway", "roles": [{"angellist_url": "https://angel.co/head-of-growth", "tag_type": "RoleTag", "display_name": "Head Of Growth", "id": 158413, "name": "Head of Growth"}], "dribbble_url": "", "linkedin_url": "https://www.linkedin.com/profile/view?id=38662293&trk=nav_responsive_tab_profile_pic", "github_url": "", "behance_url": "", "online_bio_url": ""}
+{
+  "aboutme_url": "", 
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/817148-medium_jpg?1421482269", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 817148, 
+  "angellist_url": "https://angel.co/todd-conway-581", 
+  "what_ive_built": "", 
+  "what_i_do": "", 
+  "follower_count": 33, 
+  "skills": [
+    {
+      "display_name": "Doubleclick Bid Manager", 
+      "name": "Doubleclick Bid Manager", 
+      "level": null, 
+      "angellist_url": "https://angel.co/doubleclick-bid-manager", 
+      "id": 265617, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Twitter Marketing", 
+      "name": "twitter marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/twitter-marketing", 
+      "id": 81751, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "HTML", 
+      "name": "html", 
+      "level": null, 
+      "angellist_url": "https://angel.co/html", 
+      "id": 15592, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Mixpanel", 
+      "name": "mixpanel", 
+      "level": null, 
+      "angellist_url": "https://angel.co/mixpanel-1", 
+      "id": 84645, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "SQL", 
+      "name": "sql", 
+      "level": null, 
+      "angellist_url": "https://angel.co/sql", 
+      "id": 15850, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Optimizely", 
+      "name": "optimizely", 
+      "level": null, 
+      "angellist_url": "https://angel.co/optimizely-2", 
+      "id": 91273, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Email Marketing", 
+      "name": "email marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/email-marketing-1", 
+      "id": 17586, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Digital Marketing Strategy", 
+      "name": "digital marketing strategy", 
+      "level": null, 
+      "angellist_url": "https://angel.co/digital-marketing-strategy", 
+      "id": 96431, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Video Advertising", 
+      "name": "video advertising", 
+      "level": null, 
+      "angellist_url": "https://angel.co/video-advertising", 
+      "id": 25664, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "DoubleClick", 
+      "name": "doubleclick", 
+      "level": null, 
+      "angellist_url": "https://angel.co/doubleclick-1", 
+      "id": 103771, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Digital Marketing", 
+      "name": "digital marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/digital-marketing", 
+      "id": 27580, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Zoho CRM", 
+      "name": "Zoho CRM", 
+      "level": null, 
+      "angellist_url": "https://angel.co/zoho-crm", 
+      "id": 120217, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Online Video Platforms", 
+      "name": "online video platforms", 
+      "level": null, 
+      "angellist_url": "https://angel.co/online-video-platforms", 
+      "id": 42366, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "ZenDesk", 
+      "name": "zendesk", 
+      "level": null, 
+      "angellist_url": "https://angel.co/zendesk-2", 
+      "id": 120939, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Growth Hacking", 
+      "name": "growth hacking", 
+      "level": null, 
+      "angellist_url": "https://angel.co/growth-hacking", 
+      "id": 79986, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Google Tag Manager", 
+      "name": "Google Tag Manager", 
+      "level": null, 
+      "angellist_url": "https://angel.co/google-tag-manager-1", 
+      "id": 124140, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Facebook Advertising", 
+      "name": "facebook advertising", 
+      "level": null, 
+      "angellist_url": "https://angel.co/facebook-advertising", 
+      "id": 16277, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Asana", 
+      "name": "Asana", 
+      "level": null, 
+      "angellist_url": "https://angel.co/asana-2", 
+      "id": 130422, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Content Marketing", 
+      "name": "content marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/content-marketing", 
+      "id": 27166, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Multi-channel Attribution", 
+      "name": "Multi-channel Attribution", 
+      "level": null, 
+      "angellist_url": "https://angel.co/multi-channel-attribution", 
+      "id": 131293, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Google Analytics", 
+      "name": "google analytics", 
+      "level": null, 
+      "angellist_url": "https://angel.co/google-analytics-1", 
+      "id": 79871, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Doubleclick for Publishers", 
+      "name": "Doubleclick for Publishers", 
+      "level": null, 
+      "angellist_url": "https://angel.co/doubleclick-for-publishers", 
+      "id": 146524, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Social Media Marketing", 
+      "name": "social media marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/social-media-marketing-1", 
+      "id": 17587, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "LiveRail", 
+      "name": "LiveRail", 
+      "level": null, 
+      "angellist_url": "https://angel.co/liverail-1", 
+      "id": 204763, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Data Mining", 
+      "name": "data mining", 
+      "level": null, 
+      "angellist_url": "https://angel.co/data-mining-1", 
+      "id": 15608, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Talkdesk", 
+      "name": "Talkdesk", 
+      "level": null, 
+      "angellist_url": "https://angel.co/talkdesk-2", 
+      "id": 225631, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Outsourcing", 
+      "name": "outsourcing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/outsourcing-1", 
+      "id": 28554, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "bio": "Co-Founder, Pillow", 
+  "blog_url": "", 
+  "twitter_url": "http://ToddJConway", 
+  "facebook_url": "https://www.facebook.com/todd.conway.581", 
+  "criteria": "", 
+  "startup_id": 333297, 
+  "investor": false, 
+  "name": "Todd Conway", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/head-of-growth", 
+      "tag_type": "RoleTag", 
+      "display_name": "Head Of Growth", 
+      "id": 158413, 
+      "name": "Head of Growth"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "https://www.linkedin.com/profile/view?id=38662293&trk=nav_responsive_tab_profile_pic", 
+  "github_url": "", 
+  "behance_url": "", 
+  "online_bio_url": ""
+}
