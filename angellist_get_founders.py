@@ -25,7 +25,6 @@ def fetch_id_of_startup_from_db(db, name_of_company):
     """
     list_of_id = db.startups.distinct("id", {'lname':name_of_company})
     if len(list_of_id) > 0:
-        print list_of_id[0]
         return list_of_id[0]
     else:
         return None
@@ -125,7 +124,6 @@ def save_founder_info_in_founders_db(list_of_dicts, db):
     for founder in list_of_dicts:
         json_object = json.loads(dumps(founder))
         name_of_founder = json_object['name']
-        print name_of_founder
         key = {'name': name_of_founder}
         db.founders.update(key, json_object, True)
 
@@ -153,7 +151,6 @@ def save_info_in_file(list_of_founders, name_of_company):
         path = "founders/%s/%s.json" %(dirname, filename)
         outfile = open(path, 'w')
         json_object = json.loads(dumps(founder))
-        print json_object["linkedin_url"]
         json.dump(json_object, outfile, indent=2)
 
 
