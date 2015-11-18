@@ -14,12 +14,18 @@ db = client['social-media-and-startups']
 def add_startups_to_db():
     list_of_companies = get_all_companies()
     list_of_companies_not_added = []
-    count = 0;
+    count = 0
+    failed = 0
     for startup in list_of_companies:
         try :
             count = count + 1
             file_contents = open("./final_companies/%s" %(startup)).read()
             json_object = json.loads(file_contents)
+            try:
+                if ("name" in json_object.keys()):
+                    json_object['lname'] = json_object['name'].lower()
+            except TypeError:
+                list_of_companies_not_added.append(startup)
             db.startups.insert_one(json_object)
             if count % 200 == 0:
                 print count
