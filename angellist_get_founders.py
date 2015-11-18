@@ -154,7 +154,7 @@ def save_info_in_file(list_of_founders, name_of_company):
         outfile = open(path, 'w')
         json_object = json.loads(dumps(founder))
         print json_object["linkedin_url"]
-        json.dump(json_object, outfile)
+        json.dump(json_object, outfile, indent=2)
 
 
 if __name__ == '__main__':
