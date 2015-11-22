@@ -55,20 +55,30 @@ def fetch_founders_for_startup(startup_id):
         'access_token': config.CLIENT_TOKEN_AL,
         'v': 1,
         'startup_id': startup_id,
-        'role': 'founder' # Remove this if want to fetch all of them
+        #'role': 'founder' # Remove this if want to fetch all of them
     }
     base_url = "https://api.angel.co/1/startup_roles"
     founder_info = requests.get(base_url, params)
-    ids_of_CEOs = get_id_of_user(founder_info)
-    list_of_dictionaries = fetch_user_info_from_api(ids_of_CEOs, startup_id)
-
+    ids_of_CEOs = get_id_of_user(founder_info, True)
+    isFounder = True
+    if len(ids_of_CEOs) == 0: #In case no founders were found.
+        isFounder = False
+        del params['role']
+        base_url = "https://api.angel.co/1/startup_roles"
+        founder_info = requests.get(base_url, params)
+        ids_of_CEOs = get_id_of_user(founder_info)
+    list_of_dictionaries = fetch_user_info_from_api(ids_of_CEOs, startup_id,                                                                isFounder)
     return list_of_dictionaries
 
 
-def get_id_of_user(response):
+def get_id_of_user(response, isFounder):
     """
-        @params response: The response text from startup_roles
+        @params
+        response: The response text from startup_roles
         endpoint from AngelList's API
+        isFounder: Boolean value representing if the
+        employee is a founder or not. True if yes,
+        false otherwise.
 
         @return Grabs the ids of the founders from the response
         and returns them as a list. If none found, returns
@@ -81,7 +91,7 @@ def get_id_of_user(response):
     return res
 
 
-def fetch_user_info_from_api(list_of_ids, startup_id):
+def fetch_user_info_from_api(list_of_ids, startup_id, isFounder):
     """
         @params
         list_of_ids: Contains the ids of founders in
@@ -104,6 +114,7 @@ def fetch_user_info_from_api(list_of_ids, startup_id):
         user_info = requests.get(base_url, params)
         json_dict = user_info.json()
         json_dict['startup_id'] = startup_id
+        json_dict['isFounder'] = isFounder
         result.append(json_dict)
     return result
 
@@ -123,9 +134,10 @@ def save_founder_info_in_founders_db(list_of_dicts, db):
     """
     for founder in list_of_dicts:
         json_object = json.loads(dumps(founder))
-        name_of_founder = json_object['name']
-        key = {'name': name_of_founder}
-        db.founders.update(key, json_object, True)
+        if not 'success' in json_object.keys():
+            name_of_founder = json_object['name']
+            key = {'name': name_of_founder}
+            db.founders.update(key, json_object, True)
 
 
 def save_info_in_file(list_of_founders, name_of_company):
@@ -147,11 +159,12 @@ def save_info_in_file(list_of_founders, name_of_company):
         os.mkdir("founders/" + dirname)
 
     for founder in list_of_founders:
-        filename = founder['name'] + "_" + str(founder['id'])
-        path = "founders/%s/%s.json" %(dirname, filename)
-        outfile = open(path, 'w')
-        json_object = json.loads(dumps(founder))
-        json.dump(json_object, outfile, indent=2)
+        if not 'success' in founder.keys():
+            filename = founder['name'] + "_" + str(founder['id'])
+            path = "founders/%s/%s.json" %(dirname, filename)
+            outfile = open(path, 'w')
+            json_object = json.loads(dumps(founder))
+            json.dump(json_object, outfile, indent=2)
 
 
 if __name__ == '__main__':
@@ -160,6 +173,7 @@ if __name__ == '__main__':
     try:
         name_of_company = sys.argv[1]
         id_of_startup = fetch_id_of_startup_from_db(db, name_of_company)
+        # A list of founders/employees with each index a dictionary.
         list_of_founders = fetch_founders_for_startup(id_of_startup)
         if len(list_of_founders) > 0:
             save_founder_info_in_founders_db(list_of_founders, db)
