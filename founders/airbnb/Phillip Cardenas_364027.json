@@ -1,0 +1,107 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/364027-medium_jpg?1405646904", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/oakland", 
+      "tag_type": "LocationTag", 
+      "display_name": "Oakland", 
+      "id": 1793, 
+      "name": "oakland"
+    }, 
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 364027, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/phillip-cardenas", 
+  "isFounder": "false", 
+  "what_ive_built": "Scaled the operations team from 1 to 50+.", 
+  "what_i_do": "I enjoy finding new ways to create moral equity on e-commerce platforms.  ", 
+  "follower_count": 128, 
+  "aboutme_url": "", 
+  "bio": "Head of Global Safety @uber ", 
+  "blog_url": "", 
+  "twitter_url": "https://twitter.com/philbcardenas", 
+  "facebook_url": "https://www.facebook.com/phillip.cardenas.3", 
+  "criteria": "", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Phillip Cardenas", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/operations-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Operations", 
+      "id": 129175, 
+      "name": "operations"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/phillip-cardenas/44/ba/937", 
+  "skills": [
+    {
+      "display_name": "Intelligence", 
+      "name": "Intelligence", 
+      "level": null, 
+      "angellist_url": "https://angel.co/intelligence-1", 
+      "id": 135438, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Operations Management", 
+      "name": "operations management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/operations-management", 
+      "id": 20850, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Data Analysis", 
+      "name": "data analysis", 
+      "level": null, 
+      "angellist_url": "https://angel.co/data-analysis", 
+      "id": 15731, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "E-Commerce Fraud Prevention", 
+      "name": "e-commerce fraud prevention", 
+      "level": null, 
+      "angellist_url": "https://angel.co/e-commerce-fraud-prevention", 
+      "id": 101343, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Risk Management", 
+      "name": "risk management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/risk-management-1", 
+      "id": 17866, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Fraud Investigation", 
+      "name": "fraud investigation", 
+      "level": null, 
+      "angellist_url": "https://angel.co/fraud-investigation", 
+      "id": 131471, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "SQL", 
+      "name": "sql", 
+      "level": null, 
+      "angellist_url": "https://angel.co/sql", 
+      "id": 15850, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

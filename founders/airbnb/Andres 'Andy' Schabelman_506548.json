@@ -1,0 +1,113 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/506548-medium_jpg?1405702679", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/california", 
+      "tag_type": "LocationTag", 
+      "display_name": "California", 
+      "id": 1624, 
+      "name": "california"
+    }, 
+    {
+      "angellist_url": "https://angel.co/los-angeles", 
+      "tag_type": "LocationTag", 
+      "display_name": "Los Angeles", 
+      "id": 1653, 
+      "name": "los angeles"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 506548, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/schabelman", 
+  "isFounder": "false", 
+  "what_ive_built": "Managed strategic operations for market launches in 12 international cities.", 
+  "what_i_do": "GROW. FAST. WITH HEART.", 
+  "follower_count": 189, 
+  "aboutme_url": "", 
+  "bio": "Building movements not machines, @airbnb  internationalization & rapid growth, @harvard-university Kennedy School, @williams-college College, Proudly from @new-orleans", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "https://www.facebook.com/schabelman", 
+  "criteria": "Looking to join/consult/advise leadership team at early stage company to help organize and improve growth operations, culture, and vision.", 
+  "startup_id": 32677, 
+  "investor": true, 
+  "name": "Andres 'Andy' Schabelman", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/operations-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Operations", 
+      "id": 129175, 
+      "name": "operations"
+    }, 
+    {
+      "angellist_url": "https://angel.co/sales-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Sales", 
+      "id": 80488, 
+      "name": "sales"
+    }, 
+    {
+      "angellist_url": "https://angel.co/marketing-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Marketing", 
+      "id": 80489, 
+      "name": "marketing"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/in/schabelman", 
+  "skills": [
+    {
+      "display_name": "Internationalization", 
+      "name": "internationalization", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/internationalization", 
+      "id": 57062, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Virality", 
+      "name": "virality", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/virality", 
+      "id": 41342, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Growth Strategy and Execution", 
+      "name": "growth strategy and execution", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/growth-strategy-and-execution", 
+      "id": 52344, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Community Engagement", 
+      "name": "community engagement", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/community-engagement", 
+      "id": 31051, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Movement Building", 
+      "name": "movement building", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/movement-building", 
+      "id": 19477, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "International Operations", 
+      "name": "international operations", 
+      "level": null, 
+      "angellist_url": "https://angel.co/international-operations", 
+      "id": 18600, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

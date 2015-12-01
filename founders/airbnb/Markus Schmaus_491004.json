@@ -1,0 +1,129 @@
+{
+  "image": "https://graph.facebook.com/100000166266532/picture?type=large", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/munich", 
+      "tag_type": "LocationTag", 
+      "display_name": "Munich", 
+      "id": 2128, 
+      "name": "munich"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 491004, 
+  "github_url": "https://github.com/markusschmaus", 
+  "angellist_url": "https://angel.co/markus-schmaus", 
+  "isFounder": "false", 
+  "what_ive_built": "Set up reporting infrastructure to drive right making the right decisions", 
+  "what_i_do": null, 
+  "follower_count": 21, 
+  "aboutme_url": "", 
+  "bio": "Genuine data scientist; Highly intelligent with outstanding technical knowledge; Experienced in output oriented work at McKinsey and Airbnb.", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "https://www.facebook.com/markus.schmaus", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Markus Schmaus", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Developer", 
+      "id": 14726, 
+      "name": "developer"
+    }, 
+    {
+      "angellist_url": "https://angel.co/marketing-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Marketing", 
+      "id": 80489, 
+      "name": "marketing"
+    }, 
+    {
+      "angellist_url": "https://angel.co/finance-3", 
+      "tag_type": "RoleTag", 
+      "display_name": "Finance", 
+      "id": 103477, 
+      "name": "finance"
+    }, 
+    {
+      "angellist_url": "https://angel.co/data-scientist-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Data Scientist", 
+      "id": 150975, 
+      "name": "data scientist"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/in/markusschmaus", 
+  "skills": [
+    {
+      "display_name": "Microsoft Excel", 
+      "name": "Microsoft Excel", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/microsoft-excel", 
+      "id": 87799, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Analytics & Reporting", 
+      "name": "analytics & reporting", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/analytics-reporting", 
+      "id": 15514, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Data Science", 
+      "name": "data science", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/data-science", 
+      "id": 71790, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "SQL", 
+      "name": "sql", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/sql", 
+      "id": 15850, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Statistics", 
+      "name": "statistics", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/statistics", 
+      "id": 16741, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Ruby", 
+      "name": "ruby", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/ruby", 
+      "id": 17184, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Hive", 
+      "name": "hive", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/hive-16", 
+      "id": 80337, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Haskell", 
+      "name": "haskell", 
+      "level": 1.0, 
+      "angellist_url": "https://angel.co/haskell", 
+      "id": 15603, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

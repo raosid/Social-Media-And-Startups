@@ -1,0 +1,107 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/2855-medium_jpg?1405435188", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/new-york-ny-1", 
+      "tag_type": "LocationTag", 
+      "display_name": "New York City", 
+      "id": 1664, 
+      "name": "new york, ny"
+    }
+  ], 
+  "resume_url": "http://attachments.angel.co/93583-251fbdb4bca87be88938f20255a6887c.pdf?1421697202", 
+  "id": 2855, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/myoats-2", 
+  "isFounder": "false", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 28, 
+  "aboutme_url": null, 
+  "bio": "Senior Visual Designer at HUGE Inc.", 
+  "blog_url": "", 
+  "twitter_url": "http://twitter.com/#!/iwillchangeit_", 
+  "facebook_url": "http://www.facebook.com/profile.php?id=1021017302", 
+  "criteria": null, 
+  "startup_id": 98145, 
+  "investor": false, 
+  "name": "Wunmi Atewologun", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }, 
+    {
+      "angellist_url": "https://angel.co/designer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Designer", 
+      "id": 14883, 
+      "name": "designer"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/wunmi-atewologun/46/9b7/a66", 
+  "skills": [
+    {
+      "display_name": "WEB", 
+      "name": "WEB", 
+      "level": null, 
+      "angellist_url": "https://angel.co/web-1", 
+      "id": 122521, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Adobe Illustrator", 
+      "name": "adobe illustrator", 
+      "level": null, 
+      "angellist_url": "https://angel.co/adobe-illustrator", 
+      "id": 38079, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "HTML", 
+      "name": "html", 
+      "level": null, 
+      "angellist_url": "https://angel.co/html", 
+      "id": 15592, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Css3", 
+      "name": "css3", 
+      "level": null, 
+      "angellist_url": "https://angel.co/css3-2", 
+      "id": 87129, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Adobe Photoshop", 
+      "name": "adobe photoshop", 
+      "level": null, 
+      "angellist_url": "https://angel.co/adobe-photoshop", 
+      "id": 38078, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Product Design", 
+      "name": "Product Design", 
+      "level": null, 
+      "angellist_url": "https://angel.co/product-design-4", 
+      "id": 103128, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Illustration", 
+      "name": "illustration", 
+      "level": null, 
+      "angellist_url": "https://angel.co/illustration", 
+      "id": 25228, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": null, 
+  "online_bio_url": "http://iwillchangeit.comhttp://myoats.com"
+}

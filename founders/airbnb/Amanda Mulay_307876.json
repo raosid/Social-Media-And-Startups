@@ -1,0 +1,212 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/307876-medium_jpg?1405623682", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "http://attachments.angel.co/17694-46bb1a3680073d692e1eb08c43d3d854.pdf?1423175736", 
+  "id": 307876, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/amanda-mulay", 
+  "isFounder": "false", 
+  "what_ive_built": "Day for Disaster Response for Hurricane Sandy: Our team successfully converted 1,439 Airbnb members to set their price for free during the storm and opened up their homes for those who needed a place to stay. Tens of thousands were stranded by Hurricane Sandy. We partnered with New York City to connect people with free housing. A very big moment in my career at Airbnb!", 
+  "what_i_do": "", 
+  "follower_count": 222, 
+  "aboutme_url": "", 
+  "bio": "Partner, Technical Talent at a16z", 
+  "blog_url": "", 
+  "twitter_url": "https://twitter.com/Mulay_SF", 
+  "facebook_url": "http://www.facebook.com/afmulay", 
+  "criteria": "", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Amanda Mulay", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/human_resources", 
+      "tag_type": "RoleTag", 
+      "display_name": "Human Resources", 
+      "id": 103479, 
+      "name": "human_resources"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/amanda-mulay/32/497/7a3", 
+  "skills": [
+    {
+      "display_name": "Networking", 
+      "name": "networking", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/networking-1", 
+      "id": 15852, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Lead Generation", 
+      "name": "lead generation", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/lead-generation-1", 
+      "id": 16529, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sourcing", 
+      "name": "sourcing", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/sourcing", 
+      "id": 17136, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Google", 
+      "name": "google", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/google-3", 
+      "id": 79877, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sales and Marketing", 
+      "name": "sales and marketing", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/sales-and-marketing-2", 
+      "id": 23989, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Recruiting", 
+      "name": "recruiting", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/recruiting-1", 
+      "id": 15909, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Social Media", 
+      "name": "social media", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/social-media-1", 
+      "id": 15669, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Scheduling", 
+      "name": "Scheduling", 
+      "level": null, 
+      "angellist_url": "https://angel.co/scheduling", 
+      "id": 128366, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Transportation", 
+      "name": "transportation", 
+      "level": null, 
+      "angellist_url": "https://angel.co/transportation-1", 
+      "id": 20430, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Video", 
+      "name": "video", 
+      "level": null, 
+      "angellist_url": "https://angel.co/video-1", 
+      "id": 15668, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft Excel", 
+      "name": "Microsoft Excel", 
+      "level": null, 
+      "angellist_url": "https://angel.co/microsoft-excel", 
+      "id": 87799, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Human Resources", 
+      "name": "human resources", 
+      "level": null, 
+      "angellist_url": "https://angel.co/human-resources-1", 
+      "id": 20373, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft Word", 
+      "name": "microsoft word", 
+      "level": null, 
+      "angellist_url": "https://angel.co/microsoft-word", 
+      "id": 88664, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "MySQL", 
+      "name": "mysql", 
+      "level": null, 
+      "angellist_url": "https://angel.co/mysql-1", 
+      "id": 16309, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Apple", 
+      "name": "apple", 
+      "level": null, 
+      "angellist_url": "https://angel.co/apple-1", 
+      "id": 89128, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Marketing Management", 
+      "name": "marketing management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/marketing-management", 
+      "id": 55871, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft PowerPoint", 
+      "name": "Microsoft PowerPoint", 
+      "level": null, 
+      "angellist_url": "https://angel.co/microsoft-powerpoint", 
+      "id": 109614, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Logistics", 
+      "name": "logistics", 
+      "level": null, 
+      "angellist_url": "https://angel.co/logistics-1", 
+      "id": 20113, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft Outlook", 
+      "name": "Microsoft Outlook", 
+      "level": null, 
+      "angellist_url": "https://angel.co/microsoft-outlook", 
+      "id": 115779, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sales", 
+      "name": "sales", 
+      "level": null, 
+      "angellist_url": "https://angel.co/sales-1", 
+      "id": 16278, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Email", 
+      "name": "email", 
+      "level": null, 
+      "angellist_url": "https://angel.co/email-1", 
+      "id": 54584, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://twitter.com/#!/Mulay_SF"
+}

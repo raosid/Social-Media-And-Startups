@@ -1,0 +1,124 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/390358-medium_jpg?1410406066", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "http://attachments.angel.co/8962-d26515e0ffa317bf2e55c5ccf5ab1e48.pdf?1395940152", 
+  "id": 390358, 
+  "github_url": "http://github.com/amy-chiu", 
+  "angellist_url": "https://angel.co/amy-chiu-1", 
+  "isFounder": "false", 
+  "what_ive_built": "", 
+  "what_i_do": "I'm a fullstack engineer who finds flow in solving problems and have always been genuinely interested in technology, especially how it enables people to better society and drive passions. In the most recent application I\u2019ve built with my team, I built out the frontend using React Native and Redux.", 
+  "follower_count": 89, 
+  "aboutme_url": "", 
+  "bio": "", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "", 
+  "criteria": "", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Amy Chiu", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/software-engineer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Software Engineer", 
+      "id": 153077, 
+      "name": "software engineer"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://linkedin.com/in/amyleechiu", 
+  "skills": [
+    {
+      "display_name": "SQL", 
+      "name": "sql", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/sql", 
+      "id": 15850, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Redux", 
+      "name": "redux", 
+      "level": null, 
+      "angellist_url": "https://angel.co/redux-2", 
+      "id": 262911, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Angular.JS", 
+      "name": "angular.js", 
+      "level": null, 
+      "angellist_url": "https://angel.co/angular-js", 
+      "id": 81410, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Javascript", 
+      "name": "javascript", 
+      "level": null, 
+      "angellist_url": "https://angel.co/javascript", 
+      "id": 14781, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "ExpressJs", 
+      "name": "expressjs", 
+      "level": null, 
+      "angellist_url": "https://angel.co/expressjs", 
+      "id": 85342, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Git", 
+      "name": "git", 
+      "level": null, 
+      "angellist_url": "https://angel.co/git", 
+      "id": 21135, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "React.js", 
+      "name": "React.js", 
+      "level": null, 
+      "angellist_url": "https://angel.co/react-js", 
+      "id": 139914, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Node.js", 
+      "name": "node.js", 
+      "level": null, 
+      "angellist_url": "https://angel.co/node-js", 
+      "id": 17000, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "React Native", 
+      "name": "React Native", 
+      "level": null, 
+      "angellist_url": "https://angel.co/react-native", 
+      "id": 206637, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Backbone.js", 
+      "name": "backbone.js", 
+      "level": null, 
+      "angellist_url": "https://angel.co/backbone-js", 
+      "id": 33096, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

@@ -1,0 +1,180 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/266824-medium_jpg?1405584198", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/arizona", 
+      "tag_type": "LocationTag", 
+      "display_name": "Arizona", 
+      "id": 1982, 
+      "name": "arizona"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 266824, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/abhilash-karanam", 
+  "isFounder": "false", 
+  "what_ive_built": "Applications Engineer in Oracle Corp. Worked on Oracle Apps Framework.Familiar with SQL and PL/SQL.\n\nJ2EE Applications Developer in Computer Sciences Corporation.\n\nWorked on Web mining project on Twitter. Developed a dashboard using Solr and Ajax Solr from scratch.\n\nIntern in Riverbed. Working on creating a web app to generate topology diagrams. \n\nIntern in BSNL. Developed a KIOSK web application using ASP.", 
+  "what_i_do": "", 
+  "follower_count": 27, 
+  "aboutme_url": "", 
+  "bio": "MS (Comp Sci) student  & Research Assistant in Arizona State University (ASU). Over three years of professional experience in J2EE, Web, DB technologies. Seeking Full-time job opportunity from summer 2014.\n\nWorked at Oracle, CSC, Riverbed, BSNL.", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "", 
+  "criteria": null, 
+  "startup_id": 98145, 
+  "investor": false, 
+  "name": "Abhilash Karanam", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Developer", 
+      "id": 14726, 
+      "name": "developer"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/abhilash-karanam/19/b89/611", 
+  "skills": [
+    {
+      "display_name": "Oracle Ebusiness Suite", 
+      "name": "Oracle Ebusiness Suite", 
+      "level": null, 
+      "angellist_url": "https://angel.co/oracle-ebusiness-suite", 
+      "id": 107513, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Oracle RDBMS", 
+      "name": "oracle rdbms", 
+      "level": null, 
+      "angellist_url": "https://angel.co/oracle-rdbms", 
+      "id": 21886, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Java", 
+      "name": "java", 
+      "level": null, 
+      "angellist_url": "https://angel.co/java", 
+      "id": 14780, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Ant", 
+      "name": "ant", 
+      "level": null, 
+      "angellist_url": "https://angel.co/ant", 
+      "id": 31346, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "HTML", 
+      "name": "html", 
+      "level": null, 
+      "angellist_url": "https://angel.co/html", 
+      "id": 15592, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Struts", 
+      "name": "struts", 
+      "level": null, 
+      "angellist_url": "https://angel.co/struts", 
+      "id": 35293, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "SQL", 
+      "name": "sql", 
+      "level": null, 
+      "angellist_url": "https://angel.co/sql", 
+      "id": 15850, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Google Web Toolkit", 
+      "name": "google web toolkit", 
+      "level": null, 
+      "angellist_url": "https://angel.co/google-web-toolkit", 
+      "id": 42763, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Cloud Computing", 
+      "name": "cloud computing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/cloud-computing-1", 
+      "id": 16126, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "PL/SQL", 
+      "name": "pl/sql", 
+      "level": null, 
+      "angellist_url": "https://angel.co/pl-sql", 
+      "id": 50302, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Javascript", 
+      "name": "javascript", 
+      "level": null, 
+      "angellist_url": "https://angel.co/javascript", 
+      "id": 14781, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Oracle Application Server", 
+      "name": "oracle application server", 
+      "level": null, 
+      "angellist_url": "https://angel.co/oracle-application-server", 
+      "id": 79376, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "J2ee", 
+      "name": "j2ee", 
+      "level": null, 
+      "angellist_url": "https://angel.co/j2ee", 
+      "id": 15986, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Object-Oriented Programming", 
+      "name": "object-oriented programming", 
+      "level": null, 
+      "angellist_url": "https://angel.co/object-oriented-programming", 
+      "id": 80910, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "jQuery", 
+      "name": "jquery", 
+      "level": null, 
+      "angellist_url": "https://angel.co/jquery", 
+      "id": 15594, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Apache Solr", 
+      "name": "apache solr", 
+      "level": null, 
+      "angellist_url": "https://angel.co/apache-solr", 
+      "id": 85361, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "SOLR", 
+      "name": "solr", 
+      "level": null, 
+      "angellist_url": "https://angel.co/solr", 
+      "id": 17274, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

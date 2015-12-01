@@ -1,0 +1,92 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/57942-medium_jpg?1405473292", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/new-york-ny-1", 
+      "tag_type": "LocationTag", 
+      "display_name": "New York City", 
+      "id": 1664, 
+      "name": "new york, ny"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 57942, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/helenhockney", 
+  "isFounder": "false", 
+  "what_ive_built": "Marketing and Brand Management positions at Colgate-Palmolive, NYSE, Mellon Bank, Benton & Bowles. Registered Commodity futures broker at Woodstock, Inc.  Trader and Private Portfolio Manager of equities and commodity futures.  \n\nLaunched, Harbor Road Ventures September 2010, an angel fund investing in Seed to A round tech startups.  Dynamic portfolio in less than 2 years.  \n\n", 
+  "what_i_do": "Deep knowledge of Tech Trends combined with traditional post MBA background in Advertising, Packaged Goods, Financial Services, plus experience trading public equities, commodity futures, provides broad perspective to entrepreneurs in an era where business paradigms shift hourly. ", 
+  "follower_count": 343, 
+  "aboutme_url": "", 
+  "bio": "Investor via Harbor Road Ventures; Angel Fund, Seed - Round A.  Also trade, public equities portfolio. Past management posts; @colgate-palmolive, NYSE, Mellon Bank. MBA", 
+  "blog_url": "", 
+  "twitter_url": "http://twitter.com/#!/helenhockney", 
+  "facebook_url": "", 
+  "criteria": "Entrepreneurs who are passionate, single minded, yet also very flexible thinkers -  Confident yet humble.  Both prototype ready ideas and ideas that seem totally weird, not yet proven.  Revenue never hurts, but not necessary.", 
+  "startup_id": 32677, 
+  "investor": true, 
+  "name": "Helen Hockney", 
+  "roles": [], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/helen-hockney/2/591/7a4", 
+  "skills": [
+    {
+      "display_name": "Equity Trading", 
+      "name": "equity trading", 
+      "level": null, 
+      "angellist_url": "https://angel.co/equity-trading", 
+      "id": 126798, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Interdisciplinary Thinking", 
+      "name": "interdisciplinary thinking", 
+      "level": null, 
+      "angellist_url": "https://angel.co/interdisciplinary-thinking", 
+      "id": 86732, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Connector", 
+      "name": "connector", 
+      "level": null, 
+      "angellist_url": "https://angel.co/connector", 
+      "id": 21662, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Branding & Marketing", 
+      "name": "branding & marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/branding-marketing", 
+      "id": 86735, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "History of Technology", 
+      "name": "history of technology", 
+      "level": null, 
+      "angellist_url": "https://angel.co/history-of-technology", 
+      "id": 86722, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Commodity Trading", 
+      "name": "commodity trading", 
+      "level": null, 
+      "angellist_url": "https://angel.co/commodity-trading", 
+      "id": 117949, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Early-Stage Private Equity", 
+      "name": "early-stage private equity", 
+      "level": null, 
+      "angellist_url": "https://angel.co/early-stage-private-equity", 
+      "id": 28325, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://harborroadventures.com"
+}

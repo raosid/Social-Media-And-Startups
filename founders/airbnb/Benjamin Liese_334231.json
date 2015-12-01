@@ -1,0 +1,52 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/334231-medium_jpg?1419352629", 
+  "locations": [], 
+  "resume_url": null, 
+  "id": 334231, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/bliese", 
+  "isFounder": "false", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 49, 
+  "aboutme_url": "", 
+  "bio": "Founded Accoleo, joined Airbnb and helped to succeed in the German market - finally I work for Snappet to grow an education cloud-service for primary education.", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "http://www.facebook.com/bliese", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Benjamin Liese", 
+  "roles": [], 
+  "dribbble_url": "", 
+  "linkedin_url": "", 
+  "skills": [
+    {
+      "display_name": "Offline-Marketing", 
+      "name": "offline-marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/offline-marketing", 
+      "id": 80191, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Project Management", 
+      "name": "project management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/project-management-1", 
+      "id": 24003, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Community Management", 
+      "name": "community management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/community-management", 
+      "id": 20521, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://www.benjaminliese.de"
+}

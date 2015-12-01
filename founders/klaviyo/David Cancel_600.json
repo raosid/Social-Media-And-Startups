@@ -1,0 +1,57 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/600-medium_jpg?1405433455", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/boston", 
+      "tag_type": "LocationTag", 
+      "display_name": "Boston", 
+      "id": 1620, 
+      "name": "boston"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 600, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/dcancel", 
+  "isFounder": "false", 
+  "what_ive_built": null, 
+  "what_i_do": "", 
+  "follower_count": 2054, 
+  "aboutme_url": "", 
+  "bio": "CEO of @driftt. Ex-Chief Product Officer of @hubspot. Previously started @performable,  @ghostery, @lookery and @compete.", 
+  "blog_url": "http://davidcancel.com/", 
+  "twitter_url": "http://twitter.com/dcancel", 
+  "facebook_url": "", 
+  "criteria": null, 
+  "startup_id": 98145, 
+  "investor": true, 
+  "name": "David Cancel", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/angels", 
+      "tag_type": "RoleTag", 
+      "display_name": "Angel", 
+      "id": 9300, 
+      "name": "angels"
+    }, 
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }, 
+    {
+      "angellist_url": "https://angel.co/advisors", 
+      "tag_type": "RoleTag", 
+      "display_name": "Advisor", 
+      "id": 9299, 
+      "name": "advisors"
+    }
+  ], 
+  "dribbble_url": "https://dribbble.com/dcancel", 
+  "linkedin_url": "https://www.linkedin.com/in/dcancel", 
+  "skills": [], 
+  "behance_url": "", 
+  "online_bio_url": "http://www.linkedin.com/in/dcancel"
+}

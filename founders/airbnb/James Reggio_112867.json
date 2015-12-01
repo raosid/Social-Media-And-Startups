@@ -1,0 +1,50 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/112867-medium_jpg?1405529943", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 112867, 
+  "github_url": "http://www.github.com/jamesreggio", 
+  "angellist_url": "https://angel.co/jamesreggio", 
+  "isFounder": "false", 
+  "what_ive_built": "I wrote the PowerPC JIT compiler for the .NET Framework, which enabled developers to write C# for the Xbox 360.", 
+  "what_i_do": null, 
+  "follower_count": 32, 
+  "aboutme_url": "", 
+  "bio": "Specialist in front-end web development at Airbnb, with experience in embedded systems, compilers, and VMs.", 
+  "blog_url": "", 
+  "twitter_url": "http://www.twitter.com/jamesreggio", 
+  "facebook_url": "http://www.facebook.com/jamesreggio", 
+  "criteria": "", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "James Reggio", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Developer", 
+      "id": 14726, 
+      "name": "developer"
+    }, 
+    {
+      "angellist_url": "https://angel.co/frontend-developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Frontend Developer", 
+      "id": 151711, 
+      "name": "frontend developer"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/in/jamesreggio", 
+  "skills": [], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

@@ -1,0 +1,179 @@
+{
+  "image": "https://angel.co/images/shared/nopic.png", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/boston", 
+      "tag_type": "LocationTag", 
+      "display_name": "Boston", 
+      "id": 1620, 
+      "name": "boston"
+    }
+  ], 
+  "resume_url": "http://attachments.angel.co/23071-34d092bab92343da9cbb4ce92d344fc5.docx?1410457529", 
+  "id": 249028, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/brian-shanley", 
+  "isFounder": "false", 
+  "what_ive_built": "Helping build North American business from the ground up based around award winning software suite", 
+  "what_i_do": null, 
+  "follower_count": 21, 
+  "aboutme_url": "", 
+  "bio": "UVM BS/Suffolk MBA - new business sales and strategic lead generation", 
+  "blog_url": "http://n/a", 
+  "twitter_url": "", 
+  "facebook_url": "", 
+  "criteria": null, 
+  "startup_id": 98145, 
+  "investor": false, 
+  "name": "Brian Shanley", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/sales-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Sales", 
+      "id": 80488, 
+      "name": "sales"
+    }, 
+    {
+      "angellist_url": "https://angel.co/operations-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Operations", 
+      "id": 129175, 
+      "name": "operations"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/brian-shanley/25/775/a3", 
+  "skills": [
+    {
+      "display_name": "Financial Services", 
+      "name": "financial services", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/financial-services-2", 
+      "id": 28922, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sales Development", 
+      "name": "sales development", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/sales-development", 
+      "id": 17142, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Market Research", 
+      "name": "market research", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/market-research-1", 
+      "id": 17802, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Lead Generation", 
+      "name": "lead generation", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/lead-generation-1", 
+      "id": 16529, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Email", 
+      "name": "email", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/email-1", 
+      "id": 54584, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft PowerPoint", 
+      "name": "Microsoft PowerPoint", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/microsoft-powerpoint", 
+      "id": 109614, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "New Business Development", 
+      "name": "new business development", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/new-business-development", 
+      "id": 25339, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Business Development", 
+      "name": "business development", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/business-development-1", 
+      "id": 15525, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sales", 
+      "name": "sales", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/sales-1", 
+      "id": 16278, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Customer Relationship Management", 
+      "name": "customer relationship management", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/customer-relationship-management", 
+      "id": 23977, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Consultative Sales", 
+      "name": "consultative sales", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/consultative-sales", 
+      "id": 82939, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Communication Skills", 
+      "name": "communication skills", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/communication-skills", 
+      "id": 27061, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft Excel", 
+      "name": "Microsoft Excel", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/microsoft-excel", 
+      "id": 87799, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft Office", 
+      "name": "microsoft office", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/microsoft-office", 
+      "id": 21379, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft Word", 
+      "name": "microsoft word", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/microsoft-word", 
+      "id": 88664, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Training", 
+      "name": "training", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/training-1", 
+      "id": 20020, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://n/a"
+}

@@ -1,0 +1,92 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/219768-medium_jpg?1405534652", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 219768, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/pratik-agarwal", 
+  "isFounder": "false", 
+  "what_ive_built": "I started a network appliance company, built a 15 member team, and got business from India's largest ISPs and top 10 e-commerce companies.", 
+  "what_i_do": null, 
+  "follower_count": 356, 
+  "aboutme_url": "", 
+  "bio": "MBA candidate at Harvard. Worked at Airbnb. Started two internet startups.", 
+  "blog_url": "", 
+  "twitter_url": "https://twitter.com/HarvardDesi", 
+  "facebook_url": "", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Pratik Agarwal", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/product_manager", 
+      "tag_type": "RoleTag", 
+      "display_name": "Product Manager", 
+      "id": 80487, 
+      "name": "product_manager"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/in/pratikei", 
+  "skills": [
+    {
+      "display_name": "Ruby on Rails", 
+      "name": "ruby on rails", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/ruby-on-rails-1", 
+      "id": 82532, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Growth Hacking", 
+      "name": "growth hacking", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/growth-hacking", 
+      "id": 79986, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Entrepreneurship", 
+      "name": "entrepreneurship", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/entrepreneurship", 
+      "id": 15745, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Product Management", 
+      "name": "product management", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/product-management", 
+      "id": 15872, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "HTML5 & CSS3", 
+      "name": "html5 & css3", 
+      "level": 1.0, 
+      "angellist_url": "https://angel.co/html5-css3", 
+      "id": 80376, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Recruiting", 
+      "name": "recruiting", 
+      "level": null, 
+      "angellist_url": "https://angel.co/recruiting-1", 
+      "id": 15909, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

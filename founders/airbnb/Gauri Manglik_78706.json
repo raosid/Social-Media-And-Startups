@@ -1,0 +1,84 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/78706-medium_jpg?1405483861", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 78706, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/gauri", 
+  "isFounder": "false", 
+  "what_ive_built": "Founded Fondu (formerly SpotOn), which was acquired by Airbnb in 2012. ", 
+  "what_i_do": "", 
+  "follower_count": 509, 
+  "aboutme_url": "", 
+  "bio": "Previously Mobile PM @airbnb and founder @fondu (acquired by Airbnb). Currently, traveling.", 
+  "blog_url": "", 
+  "twitter_url": "http://twitter.com/#!/gauri", 
+  "facebook_url": "http://facebook.com/gmanglik", 
+  "criteria": "", 
+  "startup_id": 32677, 
+  "investor": true, 
+  "name": "Gauri Manglik", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/in/gaurimanglik", 
+  "skills": [
+    {
+      "display_name": "Startups", 
+      "name": "startups", 
+      "level": null, 
+      "angellist_url": "https://angel.co/startups-2", 
+      "id": 27090, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Product Marketing", 
+      "name": "product marketing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/product-marketing", 
+      "id": 15878, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "User Experience Design", 
+      "name": "user experience design", 
+      "level": null, 
+      "angellist_url": "https://angel.co/user-experience-design-1", 
+      "id": 15537, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Product Development", 
+      "name": "product development", 
+      "level": null, 
+      "angellist_url": "https://angel.co/product-development", 
+      "id": 18317, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Product Management", 
+      "name": "product management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/product-management", 
+      "id": 15872, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://fondu.com"
+}

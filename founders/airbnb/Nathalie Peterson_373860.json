@@ -1,0 +1,92 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/373860-medium_jpg?1405620442", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 373860, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/nathalie-peterson", 
+  "isFounder": "false", 
+  "what_ive_built": "https://www.airbnb.com/locations; http://tech.fortune.cnn.com/2012/11/13/with-neighborhoods-airbnb-expands-its-horizons/", 
+  "what_i_do": null, 
+  "follower_count": 86, 
+  "aboutme_url": "", 
+  "bio": "Built the creative photography esthetic at Airbnb via Art Direction and Production of Airbnb Neighborhoods Project. Art Director, Photo Editor, Producer, Team-Builder and Happiness-Maker.", 
+  "blog_url": "", 
+  "twitter_url": "https://twitter.com/natouzou", 
+  "facebook_url": "https://www.facebook.com/nathalie.peterson", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Nathalie Peterson", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/marketing-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Marketing", 
+      "id": 80489, 
+      "name": "marketing"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/nathalie-peterson/3/512/549", 
+  "skills": [
+    {
+      "display_name": "Art Direction", 
+      "name": "art direction", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/art-direction", 
+      "id": 19736, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Photo Editing", 
+      "name": "photo editing", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/photo-editing-1", 
+      "id": 84576, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Video Producer", 
+      "name": "video producer", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/video-producer", 
+      "id": 21634, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Photoshop", 
+      "name": "photoshop", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/photoshop", 
+      "id": 15706, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Film Producer", 
+      "name": "film producer", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/film-producer", 
+      "id": 33890, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Photography", 
+      "name": "photography", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/photography-1", 
+      "id": 16069, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

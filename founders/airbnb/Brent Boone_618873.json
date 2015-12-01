@@ -1,0 +1,100 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/618873-medium_jpg?1405693285", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "http://attachments.angel.co/41767-bee3b5da0bddd1ff01b52b22441c22a8.pdf?1408401392", 
+  "id": 618873, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/brent-boone", 
+  "isFounder": "false", 
+  "what_ive_built": "Helped build the foundation of the growth playbook at Airbnb.", 
+  "what_i_do": null, 
+  "follower_count": 72, 
+  "aboutme_url": "", 
+  "bio": "One stop shop for growth. I build markets and drive acquisition through top of funnel, integrated marketing campaigns at Airbnb.", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Brent Boone", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/operations-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Operations", 
+      "id": 129175, 
+      "name": "operations"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/brent-boone/31/641/b43", 
+  "skills": [
+    {
+      "display_name": "Social Networking", 
+      "name": "Social Networking", 
+      "level": null, 
+      "angellist_url": "https://angel.co/social-networking-1", 
+      "id": 106292, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Research", 
+      "name": "research", 
+      "level": null, 
+      "angellist_url": "https://angel.co/research", 
+      "id": 37994, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Networking", 
+      "name": "networking", 
+      "level": null, 
+      "angellist_url": "https://angel.co/networking-1", 
+      "id": 15852, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Marketing Management", 
+      "name": "marketing management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/marketing-management", 
+      "id": 55871, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Integrity", 
+      "name": "integrity", 
+      "level": null, 
+      "angellist_url": "https://angel.co/integrity", 
+      "id": 26575, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Salesforce", 
+      "name": "salesforce", 
+      "level": null, 
+      "angellist_url": "https://angel.co/salesforce-1", 
+      "id": 83653, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sales", 
+      "name": "sales", 
+      "level": null, 
+      "angellist_url": "https://angel.co/sales-1", 
+      "id": 16278, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

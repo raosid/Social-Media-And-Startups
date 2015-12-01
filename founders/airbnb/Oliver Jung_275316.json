@@ -1,0 +1,43 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/275316-medium_jpg?1405556487", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/zurich", 
+      "tag_type": "LocationTag", 
+      "display_name": "Zurich", 
+      "id": 1869, 
+      "name": "zurich"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 275316, 
+  "github_url": null, 
+  "angellist_url": "https://angel.co/oliver-jung", 
+  "isFounder": "false", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 1419, 
+  "aboutme_url": null, 
+  "bio": "global eCommerce, market place and general internet experience as founder, manager and investor, \ninvestor in airbnb, fab.com, facebook, kupivip.ru, beyondtherack.com,\npart of leading the international rollout of airbnb,\ninternational bus dev at airbnb", 
+  "blog_url": null, 
+  "twitter_url": null, 
+  "facebook_url": "http://www.facebook.com/oliver.jung", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": true, 
+  "name": "Oliver Jung", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/angels", 
+      "tag_type": "RoleTag", 
+      "display_name": "Angel", 
+      "id": 9300, 
+      "name": "angels"
+    }
+  ], 
+  "dribbble_url": null, 
+  "linkedin_url": "http://www.linkedin.com/pub/oliver-jung/0/351/465", 
+  "skills": [], 
+  "behance_url": null, 
+  "online_bio_url": ""
+}

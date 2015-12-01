@@ -1,0 +1,56 @@
+{
+  "aboutme_url": "", 
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/170440-medium_jpg?1411012947", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/los-angeles", 
+      "tag_type": "LocationTag", 
+      "display_name": "Los Angeles", 
+      "id": 1653, 
+      "name": "los angeles"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 170440, 
+  "angellist_url": "https://angel.co/fuzzybro", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 20, 
+  "skills": [], 
+  "bio": "Entrepreneur, panda wrestler\nCurrently @otoy \nFormerly @renderbro @mine", 
+  "blog_url": "", 
+  "twitter_url": "https://twitter.com/fuzzy_bro", 
+  "facebook_url": "http://www.facebook.com/vladimir.shumskiy", 
+  "criteria": null, 
+  "startup_id": 120084, 
+  "investor": false, 
+  "name": "Vlad Shumsky", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }, 
+    {
+      "angellist_url": "https://angel.co/product_manager", 
+      "tag_type": "RoleTag", 
+      "display_name": "Product Manager", 
+      "id": 80487, 
+      "name": "product_manager"
+    }, 
+    {
+      "angellist_url": "https://angel.co/developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Developer", 
+      "id": 14726, 
+      "name": "developer"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "https://www.linkedin.com/pub/vladimir-shumskiy/56/870/525", 
+  "github_url": "http://fuzzybro", 
+  "behance_url": "", 
+  "online_bio_url": "http://t.co/lBA4lZR32f"
+}

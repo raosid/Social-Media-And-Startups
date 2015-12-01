@@ -1,0 +1,83 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/329771-medium_jpg?1405585065", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/silicon-valley", 
+      "tag_type": "LocationTag", 
+      "display_name": "Silicon Valley", 
+      "id": 1681, 
+      "name": "silicon valley"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 329771, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/aviet", 
+  "isFounder": "false", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 1945, 
+  "aboutme_url": "", 
+  "bio": "Led software engineering at Apple and NeXT.", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "http://www.facebook.com/aviet", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": true, 
+  "name": "Avie Tevanian", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Developer", 
+      "id": 14726, 
+      "name": "developer"
+    }, 
+    {
+      "angellist_url": "https://angel.co/angels", 
+      "tag_type": "RoleTag", 
+      "display_name": "Angel", 
+      "id": 9300, 
+      "name": "angels"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "", 
+  "skills": [
+    {
+      "display_name": "Angel Investing", 
+      "name": "angel investing", 
+      "level": null, 
+      "angellist_url": "https://angel.co/angel-investing-1", 
+      "id": 33866, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Mentoring", 
+      "name": "mentoring", 
+      "level": null, 
+      "angellist_url": "https://angel.co/mentoring", 
+      "id": 27674, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Executive Management", 
+      "name": "executive management", 
+      "level": null, 
+      "angellist_url": "https://angel.co/executive-management", 
+      "id": 16081, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Advisor", 
+      "name": "advisor", 
+      "level": null, 
+      "angellist_url": "https://angel.co/advisor-1", 
+      "id": 18159, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

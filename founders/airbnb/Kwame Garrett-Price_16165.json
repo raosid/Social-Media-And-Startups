@@ -1,0 +1,120 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/16165-medium_jpg?1412647036", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }, 
+    {
+      "angellist_url": "https://angel.co/oakland", 
+      "tag_type": "LocationTag", 
+      "display_name": "Oakland", 
+      "id": 1793, 
+      "name": "oakland"
+    }
+  ], 
+  "resume_url": "http://attachments.angel.co/55563-da35793d6d9e30d4043289d0ed74f681.docx?1412647383", 
+  "id": 16165, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/kwame-garrett-price", 
+  "isFounder": "false", 
+  "what_ive_built": "Contributed to July 2014 Airbnb re-branding, part of brain trust for new badge designs. Influential in on-boarding process as one of the first faces new hires encounter. Changed mail room process: upon arrival process was all by hand -- made sure it was all digital. Collaborated on shipping & receiving app with mobile engineer.", 
+  "what_i_do": "Founded a startup, Physicians Prima. Folded it after 2 years. Learned a ton. Moved to SF from Dallas in March 2013. Operations at Weddington Way. Employee Experience at Airbnb.", 
+  "follower_count": 30, 
+  "aboutme_url": "", 
+  "bio": "Ex-Airbnb and Weddington Way. Former Founder at Physicians Prima; Studied at @oklahoma-state-university-1", 
+  "blog_url": "https://medium.com/@kwameprice", 
+  "twitter_url": "http://twitter.com/#!/kwameprice", 
+  "facebook_url": "https://www.facebook.com/kwame.garrettprice", 
+  "criteria": "I am looking for a game-changing company. The kind that is shaking up and antiquated industry. Cool people, great environment, freedom to express ideas.", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Kwame Garrett-Price", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }, 
+    {
+      "angellist_url": "https://angel.co/sales-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Sales", 
+      "id": 80488, 
+      "name": "sales"
+    }, 
+    {
+      "angellist_url": "https://angel.co/marketing-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Marketing", 
+      "id": 80489, 
+      "name": "marketing"
+    }, 
+    {
+      "angellist_url": "https://angel.co/operations-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Operations", 
+      "id": 129175, 
+      "name": "operations"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "https://www.linkedin.com/pub/kwame-garrett-price/b/63/27b", 
+  "skills": [
+    {
+      "display_name": "Onboarding", 
+      "name": "onboarding", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/onboarding", 
+      "id": 92775, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sales/Marketing and Strategic Partnerships", 
+      "name": "sales/marketing and strategic partnerships", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/sales-marketing-and-strategic-partnerships", 
+      "id": 31489, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Business Development", 
+      "name": "business development", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/business-development-1", 
+      "id": 15525, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Documentation", 
+      "name": "documentation", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/documentation", 
+      "id": 59083, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Logistics", 
+      "name": "logistics", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/logistics-1", 
+      "id": 20113, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Customer Service", 
+      "name": "customer service", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/customer-service-1", 
+      "id": 15729, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": null
+}

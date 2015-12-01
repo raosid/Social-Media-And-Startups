@@ -1,0 +1,49 @@
+{
+  "aboutme_url": null, 
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/78291-medium_jpg?1405480887", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 78291, 
+  "angellist_url": "https://angel.co/defunkt", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 661, 
+  "skills": [], 
+  "bio": "Co-Founder and CEO of @github.", 
+  "blog_url": "", 
+  "twitter_url": "https://twitter.com/defunkt", 
+  "facebook_url": "", 
+  "criteria": null, 
+  "startup_id": 60436, 
+  "investor": false, 
+  "name": "Chris Wanstrath", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }, 
+    {
+      "angellist_url": "https://angel.co/developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Developer", 
+      "id": 14726, 
+      "name": "developer"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "", 
+  "github_url": "https://github.com/defunkt", 
+  "behance_url": null, 
+  "online_bio_url": "http://chriswanstrath.com"
+}

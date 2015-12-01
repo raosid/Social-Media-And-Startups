@@ -12,9 +12,9 @@ import os
 import sys
 from pymongo import MongoClient
 from bson.json_util import dumps
+import time
 reload(sys)
 sys.setdefaultencoding('utf-8')
-
 
 def fetch_id_of_startup_from_db(db, name_of_company):
     """
@@ -55,23 +55,24 @@ def fetch_founders_for_startup(startup_id):
         'access_token': config.CLIENT_TOKEN_AL,
         'v': 1,
         'startup_id': startup_id,
-        #'role': 'founder' # Remove this if want to fetch all of them
     }
+
     base_url = "https://api.angel.co/1/startup_roles"
     founder_info = requests.get(base_url, params)
-    ids_of_CEOs = get_id_of_user(founder_info, True)
-    isFounder = True
-    if len(ids_of_CEOs) == 0: #In case no founders were found.
-        isFounder = False
-        del params['role']
-        base_url = "https://api.angel.co/1/startup_roles"
-        founder_info = requests.get(base_url, params)
-        ids_of_CEOs = get_id_of_user(founder_info)
-    list_of_dictionaries = fetch_user_info_from_api(ids_of_CEOs, startup_id,                                                                isFounder)
+    ids_of_CEOs = get_id_of_user(founder_info)
+    #total_calls_to_api = total_calls_to_api + len(ids_of_CEOs)
+    list_of_dictionaries = fetch_user_info_from_api(ids_of_CEOs, startup_id,                                                                False);
+
+    base_url = "https://api.angel.co/1/startup_roles"
+    params['role'] = 'founder'
+    founder_info = requests.get(base_url, params)
+    ids_of_CEOs = get_id_of_user(founder_info)
+    #total_calls_to_api = total_calls_to_api + 2 + len(ids_of_CEOs)
+    list_of_dictionaries.extend(fetch_user_info_from_api(ids_of_CEOs, startup_id,                                                                True))
     return list_of_dictionaries
 
 
-def get_id_of_user(response, isFounder):
+def get_id_of_user(response):
     """
         @params
         response: The response text from startup_roles
@@ -114,7 +115,7 @@ def fetch_user_info_from_api(list_of_ids, startup_id, isFounder):
         user_info = requests.get(base_url, params)
         json_dict = user_info.json()
         json_dict['startup_id'] = startup_id
-        json_dict['isFounder'] = isFounder
+        json_dict['isFounder'] = "true" if isFounder else "false"
         result.append(json_dict)
     return result
 
@@ -135,9 +136,13 @@ def save_founder_info_in_founders_db(list_of_dicts, db):
     for founder in list_of_dicts:
         json_object = json.loads(dumps(founder))
         if not 'success' in json_object.keys():
-            name_of_founder = json_object['name']
-            key = {'name': name_of_founder}
-            db.founders.update(key, json_object, True)
+            try:
+                name_of_founder = json_object['name']
+                key = {'name': name_of_founder}
+                db.founders.update(key, json_object, True)
+            except KeyError:
+                print "Couldn't get this one."
+
 
 
 def save_info_in_file(list_of_founders, name_of_company):
@@ -167,20 +172,55 @@ def save_info_in_file(list_of_founders, name_of_company):
             json.dump(json_object, outfile, indent=2)
 
 
+# if __name__ == '__main__':
+#     client = MongoClient()
+#     db = client['social-media-and-startups']
+#     try:
+#         name_of_company = sys.argv[1]
+#         id_of_startup = fetch_id_of_startup_from_db(db, name_of_company)
+#         # A list of founders/employees with each index a dictionary.
+#         list_of_founders = fetch_founders_for_startup(id_of_startup)
+#         if len(list_of_founders) > 0:
+#             save_founder_info_in_founders_db(list_of_founders, db)
+#             #save_info_in_file(list_of_founders, name_of_company)
+#         else:
+#             print "Couldn't find any founders :("
+#
+#     except IndexError:
+#         print "Sorry, no arguments passed."
+#         sys.exit(2)
+
 if __name__ == '__main__':
     client = MongoClient()
     db = client['social-media-and-startups']
-    try:
-        name_of_company = sys.argv[1]
+    list_of_names = sorted(db.startups.distinct("lname"))
+    print list_of_names
+    total_calls = 1581
+    total_seconds = 1
+    count = 0
+    for name in list_of_names:
+        count = count + 1
+        if count % 10 == 0:
+            print str(count) + "companies done."
+        if total_seconds % 3300 == 0:
+            print "Gonna sleep for 5 minutes"
+            time.sleep(300)
+            total_seconds = 0
+        if  total_calls >= 1900:
+            print "Gonna sleep for " + str(3600 - total_seconds)
+            time.sleep(3600 - total_seconds)
+            total_seconds = 0
+        start_time = time.time()
+        name_of_company = name
         id_of_startup = fetch_id_of_startup_from_db(db, name_of_company)
         # A list of founders/employees with each index a dictionary.
         list_of_founders = fetch_founders_for_startup(id_of_startup)
+        total_calls = total_calls + len(list_of_founders)
+        total_seconds = total_seconds + (time.time() - start_time)
+        print "total calls: " + str(total_calls)
+        print "total seconds: " + str(total_seconds)
         if len(list_of_founders) > 0:
             save_founder_info_in_founders_db(list_of_founders, db)
-            save_info_in_file(list_of_founders, name_of_company)
+            #save_info_in_file(list_of_founders, name_of_company)
         else:
             print "Couldn't find any founders :("
-
-    except IndexError:
-        print "Sorry, no arguments passed."
-        sys.exit(2)

@@ -1,0 +1,35 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/69424-medium_jpg?1405479898", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/silicon-valley", 
+      "tag_type": "LocationTag", 
+      "display_name": "Silicon Valley", 
+      "id": 1681, 
+      "name": "silicon valley"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 69424, 
+  "github_url": null, 
+  "angellist_url": "https://angel.co/brianchesky", 
+  "isFounder": "true", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 1607, 
+  "aboutme_url": null, 
+  "bio": "Founder of @airbnb", 
+  "blog_url": "", 
+  "twitter_url": "", 
+  "facebook_url": "http://www.facebook.com/brianchesky", 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": true, 
+  "name": "Brian Chesky", 
+  "roles": [], 
+  "dribbble_url": null, 
+  "linkedin_url": "", 
+  "skills": [], 
+  "behance_url": null, 
+  "online_bio_url": ""
+}

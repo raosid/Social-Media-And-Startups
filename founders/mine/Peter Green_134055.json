@@ -1,0 +1,162 @@
+{
+  "aboutme_url": "", 
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/134055-medium_jpg?1431390401", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 134055, 
+  "angellist_url": "https://angel.co/petergreen", 
+  "what_ive_built": "Sole founder, Volga Verdi - \"Top-10 Fashion & Beauty startups of the year\" - Forbes\nMine - idea, team, product design.\nMeetingPulse - founder, team, product design,\nPrevious - monthly column editor in a print magazine\n10+ years of UX/UI, product interactive design.\nGMAT score 750 :D", 
+  "what_i_do": "Designing better life", 
+  "follower_count": 184, 
+  "skills": [
+    {
+      "display_name": "Photoshop", 
+      "name": "photoshop", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/photoshop", 
+      "id": 15706, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "HTML5 & CSS3", 
+      "name": "html5 & css3", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/html5-css3", 
+      "id": 80376, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Illustrator", 
+      "name": "illustrator", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/illustrator", 
+      "id": 17284, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Visual Design", 
+      "name": "visual design", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/visual-design", 
+      "id": 19659, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Adobe Premiere Pro", 
+      "name": "Adobe Premiere Pro", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/adobe-premiere-pro", 
+      "id": 109812, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Graphic Design", 
+      "name": "graphic design", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/graphic-design", 
+      "id": 15520, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "User Interface Design", 
+      "name": "user interface design", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/user-interface-design", 
+      "id": 17897, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "PHP", 
+      "name": "php", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/php", 
+      "id": 14776, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Product Design & Architecture", 
+      "name": "product design & architecture", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/product-design-architecture", 
+      "id": 28942, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Copywriting", 
+      "name": "copywriting", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/copywriting", 
+      "id": 16527, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Javascript", 
+      "name": "javascript", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/javascript", 
+      "id": 14781, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "User Experience Design", 
+      "name": "user experience design", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/user-experience-design-1", 
+      "id": 15537, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "jQuery", 
+      "name": "jquery", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/jquery", 
+      "id": 15594, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Strategic Planning", 
+      "name": "strategic planning", 
+      "level": 1.0, 
+      "angellist_url": "https://angel.co/strategic-planning", 
+      "id": 17145, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "bio": "Designer entrepreneur, founder @mine-1 , @meetingpulse, @Volga-Verdi, 14 yrs in web, ex- @leo-burnett (GM, P&G, Mars, etc) Masters in Strategic management.", 
+  "blog_url": "http://www.petergreen.tumblr.com", 
+  "twitter_url": "http://twitter.com/petergreeny", 
+  "facebook_url": "http://www.facebook.com/petergreeen", 
+  "criteria": "Agile dev teams / technical founders / non-tech founders with resources and enough insanity to work on moon-shot ideas.", 
+  "startup_id": 120084, 
+  "investor": false, 
+  "name": "Peter Green", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }, 
+    {
+      "angellist_url": "https://angel.co/product_manager", 
+      "tag_type": "RoleTag", 
+      "display_name": "Product Manager", 
+      "id": 80487, 
+      "name": "product_manager"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/in/petergreeen", 
+  "github_url": "https://github.com/petergreeen", 
+  "behance_url": "", 
+  "online_bio_url": "http://www.freemoneybaby.co"
+}

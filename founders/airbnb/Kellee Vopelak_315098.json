@@ -1,0 +1,57 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/315098-medium_jpg?1431984097", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/los-angeles", 
+      "tag_type": "LocationTag", 
+      "display_name": "Los Angeles", 
+      "id": 1653, 
+      "name": "los angeles"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 315098, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/kellee-vopelak", 
+  "isFounder": "false", 
+  "what_ive_built": "", 
+  "what_i_do": "Social media manager, content creator, community supporter, beginner recruiter. ", 
+  "follower_count": 13, 
+  "aboutme_url": "", 
+  "bio": "Problem solver, people manager, community builder. ", 
+  "blog_url": "", 
+  "twitter_url": "http://twitter.com/kelleevopelak", 
+  "facebook_url": "", 
+  "criteria": "", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Kellee Vopelak", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/customer-service-5", 
+      "tag_type": "RoleTag", 
+      "display_name": "Customer Service", 
+      "id": 152091, 
+      "name": "customer service"
+    }, 
+    {
+      "angellist_url": "https://angel.co/social-media-6", 
+      "tag_type": "RoleTag", 
+      "display_name": "Social Media", 
+      "id": 150993, 
+      "name": "Social Media"
+    }, 
+    {
+      "angellist_url": "https://angel.co/community-manager-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Community Manager", 
+      "id": 151717, 
+      "name": "Community Manager"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/profile/view?id=120892843&trk=tab_pro", 
+  "skills": [], 
+  "behance_url": "", 
+  "online_bio_url": ""
+}

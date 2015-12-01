@@ -1,0 +1,139 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/270590-medium_jpg?1405568885", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/cambridge-ma", 
+      "tag_type": "LocationTag", 
+      "display_name": "Cambridge, MA", 
+      "id": 2390, 
+      "name": "cambridge, ma"
+    }, 
+    {
+      "angellist_url": "https://angel.co/massachusetts", 
+      "tag_type": "LocationTag", 
+      "display_name": "Massachusetts", 
+      "id": 1708, 
+      "name": "massachusetts"
+    }
+  ], 
+  "resume_url": "http://attachments.angel.co/16382-35af0615843a11849e8bdd4ad1225eea.pdf?1398986916", 
+  "id": 270590, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/percevalve", 
+  "isFounder": "false", 
+  "what_ive_built": "Restarted a nuclear reactor underwater...", 
+  "what_i_do": "Co-chair of the MIT VC Conference... Coming on the 13th December 2013. Student MIT @Sloan MBA", 
+  "follower_count": 70, 
+  "aboutme_url": "", 
+  "bio": "MIT Sloan MBA Student, studying Marketing and Strategy on the business side as well as 6.170 Software Engineering and 6.831 User Interface.", 
+  "blog_url": "http://warm-journey-5696.herokuapp.com/", 
+  "twitter_url": "http://twitter.com/#!/percevalve", 
+  "facebook_url": "https://www.facebook.com/severin.hatt", 
+  "criteria": null, 
+  "startup_id": 98145, 
+  "investor": false, 
+  "name": "S\u00e9verin Hatt", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/product_manager", 
+      "tag_type": "RoleTag", 
+      "display_name": "Product Manager", 
+      "id": 80487, 
+      "name": "product_manager"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "", 
+  "skills": [
+    {
+      "display_name": "Microsoft Excel", 
+      "name": "Microsoft Excel", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/microsoft-excel", 
+      "id": 87799, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Javascript", 
+      "name": "javascript", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/javascript", 
+      "id": 14781, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Project Manager", 
+      "name": "project manager", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/project-manager", 
+      "id": 19981, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Product Management", 
+      "name": "product management", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/product-management", 
+      "id": 15872, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "MySQL", 
+      "name": "mysql", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/mysql-1", 
+      "id": 16309, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Ecommerce", 
+      "name": "ecommerce", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/ecommerce-1", 
+      "id": 20109, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "MongoDB", 
+      "name": "mongodb", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/mongodb", 
+      "id": 16999, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Marketing Management", 
+      "name": "marketing management", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/marketing-management", 
+      "id": 55871, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Ruby on Rails", 
+      "name": "ruby on rails", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/ruby-on-rails-1", 
+      "id": 82532, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Node.js", 
+      "name": "node.js", 
+      "level": 1.0, 
+      "angellist_url": "https://angel.co/node-js", 
+      "id": 17000, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Machine Learning", 
+      "name": "machine learning", 
+      "level": 1.0, 
+      "angellist_url": "https://angel.co/machine-learning-1", 
+      "id": 15609, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://mysterious-springs-4982.herokuapp.com/signin"
+}

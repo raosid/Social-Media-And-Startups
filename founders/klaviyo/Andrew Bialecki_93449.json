@@ -1,5 +1,4 @@
 {
-  "aboutme_url": "", 
   "image": "https://d1qb2nb5cznatu.cloudfront.net/users/93449-medium_jpg?1405518613", 
   "locations": [
     {
@@ -12,11 +11,13 @@
   ], 
   "resume_url": null, 
   "id": 93449, 
+  "github_url": "http://www.github.com/bialecki", 
   "angellist_url": "https://angel.co/bialecki", 
+  "isFounder": "true", 
   "what_ive_built": "", 
   "what_i_do": "All things product -- whether it's technical implementation or designing feature sets. Also like to spend time talking with customers/users, listening and learning to what will make their lives better.", 
-  "follower_count": 31, 
-  "skills": [], 
+  "follower_count": 32, 
+  "aboutme_url": "", 
   "bio": "Co-founder at @klaviyo. Previously at @performable, Applied Predictive Technologies.", 
   "blog_url": "", 
   "twitter_url": "http://www.twitter.com/abialecki", 
@@ -43,7 +44,7 @@
   ], 
   "dribbble_url": "", 
   "linkedin_url": "http://www/linkedin/in/bialecki", 
-  "github_url": "http://www.github.com/bialecki", 
+  "skills": [], 
   "behance_url": "", 
   "online_bio_url": "http://www.klaviyo.com"
 }

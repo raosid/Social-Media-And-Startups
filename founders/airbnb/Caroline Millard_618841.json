@@ -1,0 +1,119 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/618841-medium_jpg?1405752409", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/san-francisco", 
+      "tag_type": "LocationTag", 
+      "display_name": "San Francisco", 
+      "id": 1692, 
+      "name": "san francisco"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 618841, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/caroline-millard", 
+  "isFounder": "false", 
+  "what_ive_built": "I've grown Airbnb's host community across the United States through integrated marketing campaigns and on the ground events.", 
+  "what_i_do": "Three years at Airbnb, experienced in targeted user acquisition.", 
+  "follower_count": 64, 
+  "aboutme_url": "", 
+  "bio": "Worked at @airbnb \u2022 Studied at @college-of-charleston", 
+  "blog_url": "", 
+  "twitter_url": "http://www.twitter.com/thisiscaroline", 
+  "facebook_url": "", 
+  "criteria": "Love working on small teams with big ideas and surrounding myself with people who ask \"how can I help make this work?\"\n", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Caroline Millard", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/marketing-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Marketing", 
+      "id": 80489, 
+      "name": "marketing"
+    }, 
+    {
+      "angellist_url": "https://angel.co/events-coordinator", 
+      "tag_type": "RoleTag", 
+      "display_name": "Events Coordinator", 
+      "id": 153663, 
+      "name": "Events Coordinator"
+    }, 
+    {
+      "angellist_url": "https://angel.co/business-development-4", 
+      "tag_type": "RoleTag", 
+      "display_name": "Business Development", 
+      "id": 144329, 
+      "name": "business development"
+    }, 
+    {
+      "angellist_url": "https://angel.co/sales-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Sales", 
+      "id": 80488, 
+      "name": "sales"
+    }, 
+    {
+      "angellist_url": "https://angel.co/growth-hacking-3", 
+      "tag_type": "RoleTag", 
+      "display_name": "Growth Hacking", 
+      "id": 150995, 
+      "name": "Growth Hacking"
+    }, 
+    {
+      "angellist_url": "https://angel.co/copy-writing-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Copy Writing", 
+      "id": 153074, 
+      "name": "Copy Writing"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/pub/caroline-millard/6/a86/9bb", 
+  "skills": [
+    {
+      "display_name": "Event Management", 
+      "name": "event management", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/event-management-1", 
+      "id": 72360, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Community Building", 
+      "name": "community building", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/community-building", 
+      "id": 25403, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Event Planning", 
+      "name": "event planning", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/event-planning", 
+      "id": 51402, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Sales and Marketing", 
+      "name": "sales and marketing", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/sales-and-marketing-2", 
+      "id": 23989, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Business Development", 
+      "name": "business development", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/business-development-1", 
+      "id": 15525, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://www.bourbonandfog.com"
+}

@@ -1,0 +1,198 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/322179-medium_jpg?1409117631", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/portland", 
+      "tag_type": "LocationTag", 
+      "display_name": "Portland", 
+      "id": 1673, 
+      "name": "portland"
+    }
+  ], 
+  "resume_url": "", 
+  "id": 322179, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/coleylogan", 
+  "isFounder": "false", 
+  "what_ive_built": "Inspired 70 teammates to provide positive Airbnb community impact.\u00a0Attributed $1MM in spending to specific user issues and bugs by building reporting processes.\u00a0Advocated for three major policy changes based on quantitative user trends.", 
+  "what_i_do": "", 
+  "follower_count": 79, 
+  "aboutme_url": "", 
+  "bio": "Customer advocacy at @accompany. Operations and strategy @the-industry. Previously @airbnb and @instacart.\n", 
+  "blog_url": "", 
+  "twitter_url": "https://twitter.com/coleylogan", 
+  "facebook_url": "https://www.facebook.com/coleylogan", 
+  "criteria": "I enjoy leadership opportunities with teams dedicated to making a positive impact and challenging the status quo. I believe in learning from mistakes and investing in potential.\u00a0", 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Coley Logan", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/operations-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Operations", 
+      "id": 129175, 
+      "name": "operations"
+    }, 
+    {
+      "angellist_url": "https://angel.co/customer-service-5", 
+      "tag_type": "RoleTag", 
+      "display_name": "Customer Service", 
+      "id": 152091, 
+      "name": "customer service"
+    }, 
+    {
+      "angellist_url": "https://angel.co/community-support-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Community Support", 
+      "id": 150996, 
+      "name": "Community Support"
+    }, 
+    {
+      "angellist_url": "https://angel.co/community-manager-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Community Manager", 
+      "id": 151717, 
+      "name": "Community Manager"
+    }, 
+    {
+      "angellist_url": "https://angel.co/content-management-2", 
+      "tag_type": "RoleTag", 
+      "display_name": "Content Management", 
+      "id": 152086, 
+      "name": "content management"
+    }, 
+    {
+      "angellist_url": "https://angel.co/project-lead", 
+      "tag_type": "RoleTag", 
+      "display_name": "Project Lead", 
+      "id": 152438, 
+      "name": "Project Lead"
+    }, 
+    {
+      "angellist_url": "https://angel.co/project-management-5", 
+      "tag_type": "RoleTag", 
+      "display_name": "Project Management", 
+      "id": 151093, 
+      "name": "Project Management"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "http://www.linkedin.com/in/coleylogan", 
+  "skills": [
+    {
+      "display_name": "Team Building and Mentoring", 
+      "name": "team building and mentoring", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/team-building-and-mentoring", 
+      "id": 70680, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Customer Service", 
+      "name": "customer service", 
+      "level": 4.0, 
+      "angellist_url": "https://angel.co/customer-service-1", 
+      "id": 15729, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Project Coordination", 
+      "name": "project coordination", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/project-coordination", 
+      "id": 76851, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Management", 
+      "name": "management", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/management", 
+      "id": 15597, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Crisis Management", 
+      "name": "crisis management", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/crisis-management", 
+      "id": 38309, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Training", 
+      "name": "training", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/training-1", 
+      "id": 20020, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Training & Development", 
+      "name": "training & development", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/training-development", 
+      "id": 59577, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Project Management", 
+      "name": "project management", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/project-management-1", 
+      "id": 24003, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Content Management", 
+      "name": "content management", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/content-management", 
+      "id": 19291, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Microsoft Office", 
+      "name": "microsoft office", 
+      "level": 3.0, 
+      "angellist_url": "https://angel.co/microsoft-office", 
+      "id": 21379, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Adobe Photoshop", 
+      "name": "adobe photoshop", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/adobe-photoshop", 
+      "id": 38078, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "SQL", 
+      "name": "sql", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/sql", 
+      "id": 15850, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Adobe Illustrator", 
+      "name": "adobe illustrator", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/adobe-illustrator", 
+      "id": 38079, 
+      "tag_type": "SkillTag"
+    }, 
+    {
+      "display_name": "Adobe Indesign", 
+      "name": "adobe indesign", 
+      "level": 2.0, 
+      "angellist_url": "https://angel.co/adobe-indesign", 
+      "id": 71349, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": "", 
+  "online_bio_url": "http://www.coleylogan.com"
+}

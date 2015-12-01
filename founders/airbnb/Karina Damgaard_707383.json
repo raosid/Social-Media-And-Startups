@@ -1,0 +1,44 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/707383-medium_jpg?1407851994", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/copenhagen", 
+      "tag_type": "LocationTag", 
+      "display_name": "Copenhagen", 
+      "id": 1848, 
+      "name": "copenhagen"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 707383, 
+  "github_url": null, 
+  "angellist_url": "https://angel.co/karina-damgaard", 
+  "isFounder": "false", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 14, 
+  "aboutme_url": null, 
+  "bio": null, 
+  "blog_url": null, 
+  "twitter_url": null, 
+  "facebook_url": null, 
+  "criteria": null, 
+  "startup_id": 32677, 
+  "investor": false, 
+  "name": "Karina Damgaard", 
+  "roles": [], 
+  "dribbble_url": null, 
+  "linkedin_url": "http://www.linkedin.com/pub/karina-damgaard/27/670/9a9", 
+  "skills": [
+    {
+      "display_name": "Innovation & Growth", 
+      "name": "innovation & growth", 
+      "level": null, 
+      "angellist_url": "https://angel.co/innovation-growth", 
+      "id": 24018, 
+      "tag_type": "SkillTag"
+    }
+  ], 
+  "behance_url": null, 
+  "online_bio_url": null
+}

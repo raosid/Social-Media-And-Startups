@@ -1,0 +1,57 @@
+{
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/users/19239-medium_jpg?1412620334", 
+  "locations": [
+    {
+      "angellist_url": "https://angel.co/boston", 
+      "tag_type": "LocationTag", 
+      "display_name": "Boston", 
+      "id": 1620, 
+      "name": "boston"
+    }
+  ], 
+  "resume_url": null, 
+  "id": 19239, 
+  "github_url": "", 
+  "angellist_url": "https://angel.co/eliast", 
+  "isFounder": "false", 
+  "what_ive_built": null, 
+  "what_i_do": null, 
+  "follower_count": 676, 
+  "aboutme_url": "", 
+  "bio": "Founder @driftt and @performable, technical executive in two other startups including @hubspot and obsessed with building startup engineering teams.", 
+  "blog_url": "", 
+  "twitter_url": "http://twitter.com/eliast", 
+  "facebook_url": "", 
+  "criteria": "", 
+  "startup_id": 98145, 
+  "investor": true, 
+  "name": "Elias Torres", 
+  "roles": [
+    {
+      "angellist_url": "https://angel.co/entrepreneur-1", 
+      "tag_type": "RoleTag", 
+      "display_name": "Entrepreneur", 
+      "id": 14725, 
+      "name": "entrepreneur"
+    }, 
+    {
+      "angellist_url": "https://angel.co/developer", 
+      "tag_type": "RoleTag", 
+      "display_name": "Developer", 
+      "id": 14726, 
+      "name": "developer"
+    }, 
+    {
+      "angellist_url": "https://angel.co/angels", 
+      "tag_type": "RoleTag", 
+      "display_name": "Angel", 
+      "id": 9300, 
+      "name": "angels"
+    }
+  ], 
+  "dribbble_url": "", 
+  "linkedin_url": "https://www.linkedin.com/in/eliast", 
+  "skills": [], 
+  "behance_url": "", 
+  "online_bio_url": null
+}
